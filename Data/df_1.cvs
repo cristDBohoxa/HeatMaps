@@ -1,0 +1,1191 @@
+Fecha,Hora,Latitud,Longitud,Genero,Edad,Arma,Barrio,Id Barrio,Id Comuna,Categoria
+2017-01-01,01:00:00,6.29970294,-75.58201578,Mujer,33,Arma cortopunzante,Doce de Octubre No.2,#0603,6,Tecnología
+2017-01-01,15:00:00,6.25091714,-75.56615963,Mujer,26,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-01,14:00:00,6.27483624,-75.55490943,Hombre,30,No,Campo Valdés No.1,#0410,4,Tecnología
+2017-01-01,16:00:00,6.27623616,-75.55353312,Hombre,37,Arma de fuego,Campo Valdés No.1,#0410,4,Tecnología
+2017-01-01,16:00:00,6.25033921,-75.58691404,Hombre,87,No,Naranjal,#1103,11,Prendas de vestir y accesorios
+2017-01-01,16:00:00,6.21907115,-75.60299601,Mujer,29,No,La Loma de los Bernal,#1611,16,Elementos escolares
+2017-01-01,20:30:00,6.31770887,-75.6782588,Hombre,27,Arma de fuego,Volcana Guayabal,#5005,50,Tecnología
+2017-01-01,16:00:00,6.26830676,-75.55845689,Hombre,36,No,Manrique Central No.1,#0409,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-01,00:30:00,6.24279675,-75.55479672,Hombre,41,Arma cortopunzante,Barrio Caycedo,#0906,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-01,08:00:00,6.24682256,-75.56211378,Hombre,59,No,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-01,10:00:00,6.24968051,-75.56807902,Hombre,39,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-01,00:30:00,6.24279675,-75.55479672,Hombre,41,Arma cortopunzante,Barrio Caycedo,#0906,9,Tecnología
+2017-01-01,13:00:00,6.23605066,-75.54735627,Hombre,38,Arma cortopunzante,Los Cerros el Vergel,#0904,9,Tecnología
+2017-01-01,10:00:00,6.24978353,-75.56850721,Hombre,43,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-01,08:00:00,6.24682256,-75.56211378,Hombre,59,No,Boston,#1016,10,Artículos de fumador
+2017-01-01,02:00:00,6.25073584,-75.56404605,Mujer,22,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-01,07:15:00,6.27979636,-75.56503739,Mujer,30,No,Bermejal-Los Alamos,#0404,4,Tecnología
+2017-01-01,01:30:00,6.2849781,-75.58721926,Hombre,20,Arma cortopunzante,El Diamante,#0711,7,Tecnología
+2017-01-01,16:35:00,6.26677131,-75.56506422,Mujer,27,No,Sevilla,#0407,4,Tecnología
+2017-01-01,16:00:00,6.21907115,-75.60299601,Mujer,29,No,La Loma de los Bernal,#1611,16,Tecnología
+2017-01-01,10:00:00,6.24968051,-75.56807902,Hombre,39,Arma cortopunzante,La Candelaria,#1019,10,Documentos
+2017-01-01,13:00:00,6.273576,-75.55377752,Hombre,64,Objeto contundente,Campo Valdés No.2,#0303,3,Tecnología
+2017-01-01,08:00:00,6.2640038,-75.56177583,Hombre,35,Arma de fuego,San Pedro,#0408,4,Tecnología
+2017-01-01,14:50:00,6.25557319,-75.61963477,Hombre,18,Arma cortopunzante,San Javier No.1,#1309,13,Tecnología
+2017-01-01,18:30:00,6.26042576,-75.56208696,Hombre,28,No,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,17:00:00,6.19978188,-75.57856109,Hombre,40,No,La Aguacatala,#1422,14,Documentos
+2017-01-02,06:00:00,6.22037769,-75.58258977,Hombre,32,No,Santa Fé,#1504,15,Electrodomésticos
+2017-01-02,10:30:00,6.24817169,-75.56945231,Mujer,30,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,16:00:00,6.25251904,-75.56680157,Hombre,45,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,17:00:00,6.19978188,-75.57856109,Hombre,40,No,La Aguacatala,#1422,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,21:00:00,6.18263587,-75.56731191,Mujer,45,No,San Lucas,#1412,14,Prendas de vestir y accesorios
+2017-01-02,10:30:00,6.24817169,-75.56945231,Mujer,30,Arma cortopunzante,La Candelaria,#1019,10,Documentos
+2017-01-02,10:30:00,6.24275379,-75.54836478,Hombre,36,Arma de fuego,El Pinal,#0810,8,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,14:00:00,6.25587718,-75.58307257,Hombre,39,No,Suramericana,#1102,11,Tecnología
+2017-01-02,18:45:00,6.25373085,-75.56447145,Hombre,43,Arma de fuego,Villa Nueva,#1018,10,Tecnología
+2017-01-02,16:35:00,6.27920351,-75.57112867,Hombre,28,No,Terminal de Transporte,#Inst_4,5,Tecnología
+2017-01-02,11:50:00,6.25306162,-75.57254758,Hombre,28,No,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-02,21:00:00,6.18263587,-75.56731191,Mujer,45,No,San Lucas,#1412,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,10:30:00,6.24275379,-75.54836478,Hombre,36,Arma de fuego,El Pinal,#0810,8,Tecnología
+2017-01-02,00:00:00,6.23104859,-75.59152689,Mujer,23,Arma cortopunzante,Granada,#1604,16,Tecnología
+2017-01-02,10:00:00,6.22905415,-75.60204651,Mujer,40,No,La Palma,#1614,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,21:15:00,6.27004003,-75.56623902,Mujer,20,Arma de fuego,Parque Norte,#Inst_9,4,Tecnología
+2017-01-02,18:35:00,6.26737974,-75.57011919,Hombre,17,Arma cortopunzante,Universidad de Antioquia,#Inst_11,4,Tecnología
+2017-01-02,10:00:00,6.22905415,-75.60204651,Mujer,40,No,La Palma,#1614,16,Documentos
+2017-01-02,10:00:00,6.22905415,-75.60204651,Mujer,40,No,La Palma,#1614,16,Prendas de vestir y accesorios
+2017-01-02,22:00:00,6.2696585,-75.56612906,Mujer,26,Arma cortopunzante,Parque Norte,#Inst_9,4,Tecnología
+2017-01-02,08:30:00,6.22272947,-75.58425274,Hombre,22,Arma de fuego,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,06:30:00,6.25106645,-75.57143822,Mujer,35,No,San Benito,#1006,10,Tecnología
+2017-01-02,20:00:00,6.2523604,-75.56838747,Hombre,19,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,10:00:00,6.22905415,-75.60204651,Mujer,40,No,La Palma,#1614,16,Documentos
+2017-01-02,14:00:00,6.25587718,-75.58307257,Hombre,39,No,Suramericana,#1102,11,Tecnología
+2017-01-02,19:20:00,6.25256037,-75.56806829,Mujer,39,No,La Candelaria,#1019,10,Tecnología
+2017-01-02,00:00:00,6.23104859,-75.59152689,Mujer,23,Arma cortopunzante,Granada,#1604,16,Prendas de vestir y accesorios
+2017-01-02,16:30:00,6.21479565,-75.59762023,Mujer,19,No,La Mota,#1608,16,Tecnología
+2017-01-02,16:35:00,6.27920351,-75.57112867,Hombre,28,No,Terminal de Transporte,#Inst_4,5,Tecnología
+2017-01-02,14:45:00,6.30059057,-75.55673864,Hombre,31,No,La Francia,#0205,2,Tecnología
+2017-01-02,20:00:00,6.2523604,-75.56838747,Hombre,19,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-02,16:00:00,6.26203615,-75.56790736,Hombre,34,Arma cortopunzante,Jesús Nazareno,#1003,10,Tecnología
+2017-01-02,16:00:00,6.27833707,-75.59508886,Hombre,25,No,Palenque,#0716,7,Tecnología
+2017-01-02,19:40:00,6.23315435,-75.54990153,Mujer,51,No,Cataluña,#0909,9,Tecnología
+2017-01-02,09:30:00,6.21789792,-75.58059957,Mujer,28,Arma de fuego,Santa Fé,#1504,15,Tecnología
+2017-01-02,16:00:00,6.20627216,-75.56030598,Mujer,39,No,La Florida,#1417,14,Tecnología
+2017-01-02,20:00:00,6.27140511,-75.56972589,Mujer,49,Arma cortopunzante,Parque Norte,#Inst_9,4,Tecnología
+2017-01-02,16:30:00,6.27799041,-75.57091903,Mujer,21,No,Terminal de Transporte,#Inst_4,5,Tecnología
+2017-01-02,20:15:00,6.24189524,-75.55336442,Mujer,47,No,Barrio Caycedo,#0906,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,15:00:00,6.22944408,-75.55935651,Mujer,56,No,Loreto,#0913,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,17:40:00,6.24951016,-75.567961,Mujer,55,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-02,12:30:00,6.24343022,-75.56654587,Hombre,46,No,Barrio Colón,#1013,10,Tecnología
+2017-01-02,00:00:00,6.18306253,-75.56797709,Mujer,48,No,San Lucas,#1412,14,Prendas de vestir y accesorios
+2017-01-02,16:00:00,6.29182748,-75.57254758,Mujer,48,Arma de fuego,Castilla,#0511,5,Tecnología
+2017-01-03,10:00:00,6.24749446,-75.56459751,Hombre,38,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-03,21:15:00,6.27043296,-75.57394931,Hombre,43,Arma de fuego,Caribe,#0517,5,Tecnología
+2017-01-03,12:30:00,6.30149923,-75.56056347,Hombre,30,Arma de fuego,Plaza de Ferias,#Inst_1,5,Prendas de vestir y accesorios
+2017-01-03,16:35:00,6.25297119,-75.56948276,Mujer,32,No,San Benito,#1006,10,Tecnología
+2017-01-03,18:38:00,6.26910287,-75.56549302,Hombre,66,No,Sevilla,#0407,4,Prendas de vestir y accesorios
+2017-01-03,20:00:00,6.30268353,-75.57190653,Hombre,52,Objeto contundente,Pedregal,#0604,6,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-03,20:25:00,6.25242725,-75.56714032,Hombre,18,Arma cortopunzante,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-03,07:00:00,6.29045179,-75.56460824,Hombre,35,No,Tricentenario,#0510,5,Prendas de vestir y accesorios
+2017-01-03,18:38:00,6.26910287,-75.56549302,Hombre,66,No,Sevilla,#0407,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-03,15:00:00,6.22427095,-75.59958425,Mujer,36,No,La Gloria,#1612,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-03,07:00:00,6.29045179,-75.56460824,Hombre,35,No,Tricentenario,#0510,5,Documentos
+2017-01-03,00:00:00,6.2465026,-75.54621365,Hombre,56,No,El Pinal,#0810,8,Tecnología
+2017-01-03,19:10:00,6.1988166,-75.57442512,Hombre,23,No,La Aguacatala,#1422,14,Tecnología
+2017-01-03,19:10:00,6.1988166,-75.57442512,Hombre,23,No,La Aguacatala,#1422,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-03,11:50:00,6.24769428,-75.56443658,Mujer,25,Objeto contundente,La Candelaria,#1019,10,Tecnología
+2017-01-03,19:10:00,6.1988166,-75.57442512,Hombre,23,No,La Aguacatala,#1422,14,Tecnología
+2017-01-03,18:00:00,6.23425481,-75.55546302,Mujer,64,Arma de fuego,La Milagrosa,#0910,9,Tecnología
+2017-01-03,12:30:00,6.30149923,-75.56056347,Hombre,30,Arma de fuego,Plaza de Ferias,#Inst_1,5,Tecnología
+2017-01-03,20:05:00,6.26632872,-75.57528343,Hombre,27,No,Caribe,#0517,5,Prendas de vestir y accesorios
+2017-01-03,21:15:00,6.27043296,-75.57394931,Hombre,43,Arma de fuego,Caribe,#0517,5,Prendas de vestir y accesorios
+2017-01-03,16:30:00,6.20764234,-75.58670271,Hombre,22,Arma de fuego,Cristo Rey,#1509,15,Tecnología
+2017-01-03,21:40:00,6.30157447,-75.56393769,Mujer,34,No,Boyacá,#0505,5,Tecnología
+2017-01-03,20:15:00,6.25420278,-75.58885004,Hombre,23,Arma cortopunzante,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2017-01-03,10:00:00,6.25216546,-75.56339588,Mujer,22,No,Villa Nueva,#1018,10,Tecnología
+2017-01-03,20:30:00,6.26575816,-75.57514396,Hombre,27,No,Caribe,#0517,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-03,17:30:00,6.21975909,-75.57323422,Mujer,39,No,Villa Carlota,#1403,14,Tecnología
+2017-01-03,21:40:00,6.30157447,-75.56393769,Mujer,34,No,Boyacá,#0505,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-03,10:05:00,6.24993143,-75.56865301,Hombre,59,No,La Candelaria,#1019,10,Tecnología
+2017-01-03,16:30:00,6.20764234,-75.58670271,Hombre,22,Arma de fuego,Cristo Rey,#1509,15,Tecnología
+2017-01-03,15:50:00,6.24837433,-75.56712415,Hombre,16,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-03,09:30:00,6.2472065,-75.56975808,Mujer,30,Arma cortopunzante,Guayaquil,#1007,10,Tecnología
+2017-01-03,18:00:00,6.23852087,-75.55800881,Mujer,54,Arma cortopunzante,Gerona,#0911,9,Tecnología
+2017-01-04,11:00:00,6.27368966,-75.55905712,Hombre,36,Arma de fuego,Brasilia,#0414,4,Tecnología
+2017-01-04,15:00:00,6.27210659,-75.56045631,Hombre,26,Arma de fuego,Brasilia,#0414,4,Tecnología
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,Prendas de vestir y accesorios
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,Tecnología
+2017-01-04,15:00:00,6.27210659,-75.56045631,Hombre,26,Arma de fuego,Brasilia,#0414,4,Tecnología
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,Tecnología
+2017-01-04,13:30:00,6.24740914,-75.59383359,Hombre,47,Arma de fuego,Laureles,#1108,11,Tecnología
+2017-01-04,00:00:00,6.25930348,-75.56495968,Hombre,30,Arma de fuego,Prado,#1001,10,Tecnología
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,Prendas de vestir y accesorios
+2017-01-04,18:30:00,6.26500096,-75.56452241,Hombre,24,Arma de fuego,Sevilla,#0407,4,Tecnología
+2017-01-04,17:30:00,6.24534277,-75.58368411,Mujer,40,Arma de fuego,Los Conquistadores,#1105,11,Prendas de vestir y accesorios
+2017-01-04,18:00:00,6.25099188,-75.57131484,Mujer,65,No,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-04,16:00:00,6.26781112,-75.57713952,Hombre,32,Arma cortopunzante,Ecoparque Cerro El Volador,#Inst_7,7,Tecnología
+2017-01-04,13:30:00,6.24740914,-75.59383359,Hombre,47,Arma de fuego,Laureles,#1108,11,Prendas de vestir y accesorios
+2017-01-04,17:30:00,6.24534277,-75.58368411,Mujer,40,Arma de fuego,Los Conquistadores,#1105,11,Tecnología
+2017-01-04,16:00:00,6.26781112,-75.57713952,Hombre,32,Arma cortopunzante,Ecoparque Cerro El Volador,#Inst_7,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,14:30:00,6.25120812,-75.56378912,Mujer,23,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,21:20:00,6.25128056,-75.5832335,Hombre,20,Arma cortopunzante,Naranjal,#1103,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,18:30:00,6.26500096,-75.56452241,Hombre,24,Arma de fuego,Sevilla,#0407,4,Tecnología
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,Elementos escolares
+2017-01-04,18:30:00,6.26500096,-75.56452241,Hombre,24,Arma de fuego,Sevilla,#0407,4,Tecnología
+2017-01-04,10:00:00,6.23510516,-75.59638182,Mujer,40,Arma de fuego,Belén,#1603,16,Tecnología
+2017-01-04,17:30:00,6.24534277,-75.58368411,Mujer,40,Arma de fuego,Los Conquistadores,#1105,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,16:00:00,6.25415478,-75.5631974,Hombre,51,Arma de fuego,Villa Nueva,#1018,10,Tecnología
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,12:30:00,6.26714599,-75.56578587,Mujer,28,No,Sevilla,#0407,4,Prendas de vestir y accesorios
+2017-01-04,18:30:00,6.25870871,-75.56055274,Hombre,22,Arma cortopunzante,Prado,#1001,10,Tecnología
+2017-01-04,17:10:00,6.2521471,-75.57170536,Hombre,37,Arma de fuego,San Benito,#1006,10,Tecnología
+2017-01-04,16:00:00,6.30771158,-75.57763841,Mujer,53,No,Doce de Octubre No.1,#0602,6,Tecnología
+2017-01-04,17:10:00,6.2521471,-75.57170536,Hombre,37,Arma de fuego,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,Prendas de vestir y accesorios
+2017-01-04,00:00:00,6.27633112,-75.5969733,Mujer,36,Arma de fuego,Robledo,#0717,7,Prendas de vestir y accesorios
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,13:30:00,6.24740914,-75.59383359,Hombre,47,Arma de fuego,Laureles,#1108,11,Alimento
+2017-01-04,20:15:00,6.24074873,-75.60742166,Hombre,42,Arma de fuego,La Castellana,#1110,11,Tecnología
+2017-01-04,00:37:00,6.24397819,-75.56050918,Mujer,40,Arma de fuego,Bomboná No.1,#1015,10,Tecnología
+2017-01-04,16:15:00,6.25740226,-75.56520905,Mujer,32,Arma cortopunzante,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,21:20:00,6.25128056,-75.5832335,Hombre,20,Arma cortopunzante,Naranjal,#1103,11,Tecnología
+2017-01-04,16:15:00,6.25740226,-75.56520905,Mujer,32,Arma cortopunzante,Prado,#1001,10,Tecnología
+2017-01-04,17:00:00,6.20326723,-75.5593313,Hombre,52,Arma de fuego,El Tesoro,#1409,14,Prendas de vestir y accesorios
+2017-01-04,00:00:00,6.23185648,-75.59159936,Hombre,45,No,Rosales,#1602,16,Tecnología
+2017-01-04,11:00:00,6.27368966,-75.55905712,Hombre,36,Arma de fuego,Brasilia,#0414,4,Tecnología
+2017-01-04,00:37:00,6.24397819,-75.56050918,Mujer,40,Arma de fuego,Bomboná No.1,#1015,10,Prendas de vestir y accesorios
+2017-01-04,18:30:00,6.25870871,-75.56055274,Hombre,22,Arma cortopunzante,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,11:30:00,6.29218899,-75.57932179,Hombre,54,Objeto contundente,San Martín de Porres,#0606,6,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,10:00:00,6.18234788,-75.56287753,Hombre,47,No,San Lucas,#1412,14,Autoparte y elementos de la mecánica automotriz
+2017-01-04,20:30:00,6.23242252,-75.59145091,Hombre,36,No,Rosales,#1602,16,Otros elementos
+2017-01-04,17:10:00,6.2521471,-75.57170536,Hombre,37,Arma de fuego,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-04,00:00:00,6.27468177,-75.56019332,Hombre,45,No,Brasilia,#0414,4,Herramientas
+2017-01-04,16:30:00,6.28289879,-75.5859774,Hombre,33,Arma cortopunzante,El Diamante,#0711,7,Tecnología
+2017-01-04,19:30:00,6.25770621,-75.5911031,Hombre,28,No,U.D. Atanasio Girardot,#Inst_14,11,Elementos escolares
+2017-01-04,00:00:00,6.22954476,-75.60839262,Mujer,48,No,Los Alpes,#1615,16,Prendas de vestir y accesorios
+2017-01-04,07:00:00,6.22884084,-75.57912116,Hombre,25,No,Trinidad,#1503,15,Otros elementos
+2017-01-04,17:00:00,6.26079369,-75.60415473,Hombre,35,Arma de fuego,Los Alcázares,#1304,13,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,18:00:00,6.22582271,-75.5758403,Mujer,30,No,Villa Carlota,#1403,14,Tecnología
+2017-01-04,12:35:00,6.24635329,-75.56733336,Mujer,27,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-04,05:30:00,6.23489347,-75.5609363,Hombre,32,No,El Salvador,#0912,9,Electrodomésticos
+2017-01-04,15:47:00,6.29907797,-75.56339753,Hombre,47,No,Plaza de Ferias,#Inst_1,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-04,16:00:00,6.25323226,-75.58149543,Mujer,26,Arma cortopunzante,Suramericana,#1102,11,Vehículos de 2 o 4 ruedas
+2017-01-04,17:22:00,6.26904289,-75.56538072,Hombre,28,No,Sevilla,#0407,4,Tecnología
+2017-01-04,20:30:00,6.2497448,-75.56552019,Mujer,24,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-04,20:10:00,6.21183976,-75.57341125,Mujer,41,No,Manila,#1419,14,Tecnología
+2017-01-05,14:30:00,6.24931738,-75.57272568,Hombre,28,Arma de fuego,Guayaquil,#1007,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,19:35:00,6.24979566,-75.56804931,Mujer,33,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-05,17:00:00,6.24762362,-75.57059444,Mujer,46,No,La Candelaria,#1019,10,Elementos escolares
+2017-01-05,12:30:00,6.24896313,-75.56468277,Mujer,20,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,15:45:00,6.233235,-75.59312549,Mujer,25,Arma de fuego,Rosales,#1602,16,Prendas de vestir y accesorios
+2017-01-05,23:35:00,6.23451485,-75.5915108,Hombre,30,Arma de fuego,Rosales,#1602,16,Tecnología
+2017-01-05,00:00:00,6.24047677,-75.578545,Hombre,38,No,Los Conquistadores,#1105,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,00:00:00,6.24047677,-75.578545,Hombre,38,No,Los Conquistadores,#1105,11,Prendas de vestir y accesorios
+2017-01-05,23:35:00,6.23451485,-75.5915108,Hombre,30,Arma de fuego,Rosales,#1602,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,17:35:00,6.25119258,-75.56803611,Hombre,37,No,La Candelaria,#1019,10,Tecnología
+2017-01-05,22:00:00,6.25293898,-75.5624732,Hombre,42,No,Villa Nueva,#1018,10,Documentos
+2017-01-05,17:00:00,6.24669377,-75.5682142,Hombre,59,No,Barrio Colón,#1013,10,Otros elementos
+2017-01-05,08:00:00,6.2495075,-75.56795028,Mujer,44,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,12:40:00,6.25457605,-75.56717243,Hombre,25,No,Estación Villa,#1005,10,Tecnología
+2017-01-05,13:00:00,6.24937071,-75.55893912,Mujer,19,No,Boston,#1016,10,Electrodomésticos
+2017-01-05,12:30:00,6.24896313,-75.56468277,Mujer,20,No,La Candelaria,#1019,10,Tecnología
+2017-01-05,17:00:00,6.24762362,-75.57059444,Mujer,46,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,10:45:00,6.2538615,-75.56305792,Hombre,25,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-05,21:20:00,6.28071258,-75.57456728,Mujer,44,No,Córdoba,#0709,7,Tecnología
+2017-01-05,11:35:00,6.20927577,-75.57001865,Mujer,27,No,El Poblado,#1418,14,Tecnología
+2017-01-05,21:20:00,6.28071258,-75.57456728,Mujer,44,No,Córdoba,#0709,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,22:00:00,6.25293898,-75.5624732,Hombre,42,No,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2017-01-05,16:00:00,6.27460982,-75.56245711,Mujer,32,Arma de fuego,Miranda,#0415,4,Documentos
+2017-01-05,16:00:00,6.27460982,-75.56245711,Mujer,32,Arma de fuego,Miranda,#0415,4,Tecnología
+2017-01-05,12:40:00,6.25457605,-75.56717243,Hombre,25,No,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,09:58:00,6.23717928,-75.55669143,Hombre,29,Objeto contundente,Gerona,#0911,9,Otros elementos
+2017-01-05,08:00:00,6.25193854,-75.56432137,Hombre,45,No,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,18:30:00,6.2099519,-75.57350244,Mujer,38,Arma cortopunzante,Astorga,#1420,14,Tecnología
+2017-01-05,16:00:00,6.2318405,-75.54042008,Mujer,24,No,Los Cerros el Vergel,#0904,9,Tecnología
+2017-01-05,20:00:00,6.19750467,-75.55340733,Mujer,40,No,Los Naranjos,#1410,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,17:00:00,6.30166265,-75.55415841,Mujer,42,No,La Francia,#0205,2,Tecnología
+2017-01-05,23:00:00,6.25726362,-75.56137455,Mujer,53,Arma cortopunzante,Prado,#1001,10,Tecnología
+2017-01-05,07:45:00,6.25295497,-75.56285407,Mujer,36,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-05,21:40:00,6.2559625,-75.59678402,Hombre,33,Arma de fuego,El Velódromo,#1112,11,Tecnología
+2017-01-05,18:15:00,6.29170763,-75.58687656,Mujer,36,Arma de fuego,Aures No.2,#0712,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-05,15:00:00,6.24890596,-75.56353372,Mujer,60,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-05,11:00:00,6.24467664,-75.59305128,Hombre,48,Arma cortopunzante,Bolivariana,#1107,11,Tecnología
+2017-01-05,20:00:00,6.26822956,-75.56658652,Mujer,6,Arma de fuego,Sevilla,#0407,4,Tecnología
+2017-01-06,22:20:00,6.20686213,-75.58627757,Hombre,22,Arma de fuego,Cristo Rey,#1509,15,Tecnología
+2017-01-06,02:00:00,6.23722385,-75.56979563,Mujer,35,No,San Diego,#1020,10,Tecnología
+2017-01-06,20:30:00,6.2474758,-75.5697849,Mujer,28,No,La Candelaria,#1019,10,Tecnología
+2017-01-06,00:00:00,6.27693824,-75.57174154,Mujer,37,No,Terminal de Transporte,#Inst_4,5,Otros elementos
+2017-01-06,17:15:00,6.23060064,-75.57500448,Hombre,30,No,Barrio Colombia,#1401,14,Tecnología
+2017-01-06,18:18:00,6.23191249,-75.60420301,Hombre,37,No,Belén,#1603,16,Prendas de vestir y accesorios
+2017-01-06,08:10:00,6.28644312,-75.58340438,Mujer,25,No,Kennedy,#0607,6,Tecnología
+2017-01-06,09:30:00,6.26187617,-75.56159344,Mujer,51,No,Prado,#1001,10,Tecnología
+2017-01-06,12:30:00,6.22248891,-75.58323671,Hombre,26,Arma cortopunzante,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,19:25:00,6.24784788,-75.60272213,Mujer,33,Arma cortopunzante,Simón Bolívar,#1211,12,Tecnología
+2017-01-06,19:45:00,6.25908732,-75.60113993,Mujer,21,Arma de fuego,La Floresta,#1205,12,Tecnología
+2017-01-06,20:00:00,6.22061767,-75.59478846,Hombre,49,No,Las Playas,#1606,16,Tecnología
+2017-01-06,23:30:00,6.20875754,-75.56324464,Mujer,24,Arma de fuego,Las Lomas No.1,#1406,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,18:18:00,6.23191249,-75.60420301,Hombre,37,No,Belén,#1603,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,12:30:00,6.22248891,-75.58323671,Hombre,26,Arma cortopunzante,Santa Fé,#1504,15,Tecnología
+2017-01-06,22:20:00,6.20686213,-75.58627757,Hombre,22,Arma de fuego,Cristo Rey,#1509,15,Tecnología
+2017-01-06,04:10:00,6.25458672,-75.56721535,Hombre,39,Arma cortopunzante,Estación Villa,#1005,10,Tecnología
+2017-01-06,20:15:00,6.25402147,-75.59609737,Hombre,38,No,El Velódromo,#1112,11,"Accesorios militares, policía o vigilancia privada"
+2017-01-06,14:10:00,6.2358185,-75.5694849,Mujer,31,No,San Diego,#1020,10,Prendas de vestir y accesorios
+2017-01-06,19:25:00,6.24784788,-75.60272213,Mujer,33,Arma cortopunzante,Simón Bolívar,#1211,12,Prendas de vestir y accesorios
+2017-01-06,04:10:00,6.25458672,-75.56721535,Hombre,39,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,19:25:00,6.24784788,-75.60272213,Mujer,33,Arma cortopunzante,Simón Bolívar,#1211,12,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,18:20:00,6.25480535,-75.56682911,Hombre,26,No,Villa Nueva,#1018,10,Tecnología
+2017-01-06,09:30:00,6.20868266,-75.6013545,Hombre,40,Arma de fuego,La Mota,#1608,16,Tecnología
+2017-01-06,20:00:00,6.29019585,-75.59303965,Hombre,34,Arma cortopunzante,Aures No.1,#0713,7,Prendas de vestir y accesorios
+2017-01-06,19:00:00,6.22893171,-75.57373208,Hombre,44,No,Barrio Colombia,#1401,14,Vehículos de 2 o 4 ruedas
+2017-01-06,22:20:00,6.20686213,-75.58627757,Hombre,22,Arma de fuego,Cristo Rey,#1509,15,Prendas de vestir y accesorios
+2017-01-06,08:00:00,6.24628714,-75.56702452,Hombre,65,No,Barrio Colón,#1013,10,Documentos
+2017-01-06,00:00:00,6.26713391,-75.57126548,Hombre,31,No,Universidad de Antioquia,#Inst_11,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,00:00:00,6.26713391,-75.57126548,Hombre,31,No,Universidad de Antioquia,#Inst_11,4,Tecnología
+2017-01-06,23:30:00,6.20875754,-75.56324464,Mujer,24,Arma de fuego,Las Lomas No.1,#1406,14,Tecnología
+2017-01-06,08:00:00,6.23807463,-75.57483045,Hombre,30,Arma de fuego,Perpetuo Socorro,#1012,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,12:30:00,6.28921474,-75.57030525,Hombre,18,No,Castilla,#0511,5,Tecnología
+2017-01-06,18:35:00,6.24735912,-75.5677159,Mujer,36,Objeto contundente,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,01:00:00,6.24673724,-75.6222811,Hombre,49,Escopolamina,El Corazón,#1313,13,Tecnología
+2017-01-06,20:00:00,6.29019585,-75.59303965,Hombre,34,Arma cortopunzante,Aures No.1,#0713,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,06:30:00,6.30989234,-75.56770887,Hombre,25,Arma de fuego,Florencia,#0503,5,Tecnología
+2017-01-06,00:00:00,6.21144512,-75.57032671,Hombre,46,Arma de fuego,Manila,#1419,14,Tecnología
+2017-01-06,17:42:00,6.24649194,-75.56765523,Hombre,41,Arma cortopunzante,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,07:50:00,6.26252673,-75.57009067,Mujer,30,Arma cortopunzante,El Chagualo,#1004,10,Tecnología
+2017-01-06,13:00:00,6.25705178,-75.56632157,Hombre,35,No,Jesús Nazareno,#1003,10,Tecnología
+2017-01-06,13:00:00,6.23771804,-75.54898612,Hombre,21,Objeto contundente,Miraflores,#0908,9,Otros elementos
+2017-01-06,22:00:00,6.25417708,-75.58877478,Hombre,35,No,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2017-01-06,20:00:00,6.21139261,-75.57049114,Hombre,22,Arma de fuego,Manila,#1419,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-06,16:00:00,6.28915875,-75.57034817,Mujer,23,Arma de fuego,Castilla,#0511,5,Tecnología
+2017-01-06,19:00:00,6.2463213,-75.56720462,Mujer,21,Arma cortopunzante,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,12:40:00,6.20728009,-75.59933748,Mujer,26,Arma cortopunzante,La Mota,#1608,16,Tecnología
+2017-01-07,22:00:00,6.24192243,-75.585589,Hombre,38,Objeto contundente,Los Conquistadores,#1105,11,Tecnología
+2017-01-07,15:50:00,6.23125657,-75.60099509,Mujer,22,Objeto contundente,Belén,#1603,16,Tecnología
+2017-01-07,09:30:00,6.24588488,-75.56034112,Mujer,50,No,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,20:30:00,6.22680792,-75.51693274,Mujer,46,Objeto contundente,Media Luna,#9002,90,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,22:20:00,6.20689078,-75.58689203,Hombre,21,Arma de fuego,Cristo Rey,#1509,15,Prendas de vestir y accesorios
+2017-01-07,22:20:00,6.20689078,-75.58689203,Hombre,21,Arma de fuego,Cristo Rey,#1509,15,Tecnología
+2017-01-07,20:30:00,6.22680792,-75.51693274,Mujer,46,Objeto contundente,Media Luna,#9002,90,Documentos
+2017-01-07,20:30:00,6.22910747,-75.51251974,Mujer,29,No,Media Luna,#9002,90,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,15:50:00,6.23125657,-75.60099509,Mujer,22,Objeto contundente,Belén,#1603,16,Prendas de vestir y accesorios
+2017-01-07,20:30:00,6.22680792,-75.51693274,Mujer,46,Objeto contundente,Media Luna,#9002,90,Prendas de vestir y accesorios
+2017-01-07,11:00:00,6.23627632,-75.58078093,Hombre,44,Arma de fuego,Cerro Nutibara Ins.,#Inst_18,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,22:20:00,6.20689078,-75.58689203,Hombre,21,Arma de fuego,Cristo Rey,#1509,15,Tecnología
+2017-01-07,22:00:00,6.24192243,-75.585589,Hombre,38,Objeto contundente,Los Conquistadores,#1105,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,09:30:00,6.24588488,-75.56034112,Mujer,50,No,Boston,#1016,10,Documentos
+2017-01-07,06:30:00,6.18454516,-75.65658655,Mujer,24,Arma cortopunzante,Área Urbana Cgto. San Antonio de Prado,#AUC2,80,Vehículos de 2 o 4 ruedas
+2017-01-07,21:45:00,6.25280033,-75.56854036,Hombre,28,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-07,07:00:00,6.19767533,-75.58971908,Hombre,21,Arma cortopunzante,Guayabal,#1510,15,Tecnología
+2017-01-07,19:00:00,6.25003275,-75.56654479,Hombre,26,No,La Candelaria,#1019,10,Documentos
+2017-01-07,16:00:00,6.23420526,-75.61373855,Hombre,32,Arma de fuego,Las Violetas,#1616,16,Tecnología
+2017-01-07,21:00:00,6.2448495,-75.60031381,Hombre,47,Arma de fuego,Lorena,#1111,11,Prendas de vestir y accesorios
+2017-01-07,21:00:00,6.2448495,-75.60031381,Hombre,47,Arma de fuego,Lorena,#1111,11,Tecnología
+2017-01-07,20:25:00,6.24858621,-75.56835553,Hombre,18,No,La Candelaria,#1019,10,Tecnología
+2017-01-07,03:00:00,6.20652133,-75.57434101,Hombre,46,No,Patio Bonito,#1421,14,Tecnología
+2017-01-07,19:00:00,6.25003275,-75.56654479,Hombre,26,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,18:30:00,6.2525337,-75.56252148,Mujer,53,No,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,15:30:00,6.2099519,-75.57100263,Mujer,49,Arma cortopunzante,Astorga,#1420,14,Tecnología
+2017-01-07,07:00:00,6.19767533,-75.58971908,Hombre,21,Arma cortopunzante,Guayabal,#1510,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,16:40:00,6.25265169,-75.56854036,Mujer,50,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-07,12:30:00,6.20908796,-75.5666789,Mujer,30,No,El Poblado,#1418,14,Prendas de vestir y accesorios
+2017-01-07,17:05:00,6.20903463,-75.572966,Hombre,22,No,Astorga,#1420,14,Tecnología
+2017-01-07,20:30:00,6.23672762,-75.51413413,Hombre,29,No,Media Luna,#9002,90,Prendas de vestir y accesorios
+2017-01-07,00:00:00,6.26855699,-75.56579439,Mujer,31,No,Sevilla,#0407,4,Prendas de vestir y accesorios
+2017-01-07,16:00:00,6.23420526,-75.61373855,Hombre,32,Arma de fuego,Las Violetas,#1616,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-07,16:00:00,6.24697187,-75.56481775,Mujer,56,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,16:00:00,6.28388665,-75.58346953,Mujer,33,Escopolamina,López de Mesa,#0710,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,23:20:00,6.24175126,-75.55137958,Hombre,39,Arma de fuego,Barrio Caycedo,#0906,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,14:00:00,6.2002219,-75.57091498,Hombre,33,Arma de fuego,Alejandría,#1416,14,Prendas de vestir y accesorios
+2017-01-08,11:00:00,6.23454685,-75.59000339,Hombre,47,Objeto contundente,Rosales,#1602,16,Tecnología
+2017-01-08,14:00:00,6.29453585,-75.60737891,Mujer,62,No,Pajarito S.C.,#6012,60,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,14:00:00,6.2002219,-75.57091498,Hombre,33,Arma de fuego,Alejandría,#1416,14,Prendas de vestir y accesorios
+2017-01-08,14:00:00,6.25795684,-75.59203651,Mujer,32,Arma cortopunzante,Estadio,#1113,11,Tecnología
+2017-01-08,11:00:00,6.23454685,-75.59000339,Hombre,47,Objeto contundente,Rosales,#1602,16,Tecnología
+2017-01-08,00:56:00,6.25153652,-75.57044473,Hombre,30,Arma cortopunzante,San Benito,#1006,10,Tecnología
+2017-01-08,04:30:00,6.24529744,-75.60262051,Hombre,25,Arma cortopunzante,Lorena,#1111,11,Tecnología
+2017-01-08,14:00:00,6.28684193,-75.57125475,Mujer,31,Arma de fuego,Castilla,#0511,5,Tecnología
+2017-01-08,04:30:00,6.24529744,-75.60262051,Hombre,25,Arma cortopunzante,Lorena,#1111,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,02:00:00,6.20972198,-75.56905558,Mujer,26,Escopolamina,El Poblado,#1418,14,Tecnología
+2017-01-08,22:00:00,6.25188847,-75.56791272,Hombre,15,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,15:00:00,6.22880884,-75.50419416,Hombre,27,No,Piedra Gorda,#9010,90,Tecnología
+2017-01-08,22:00:00,6.25188847,-75.56791272,Hombre,15,Arma cortopunzante,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-08,00:50:00,6.25320423,-75.56355683,Mujer,25,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-08,19:00:00,6.24676588,-75.55620868,Mujer,31,Arma cortopunzante,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,20:00:00,6.19662975,-75.57511534,Mujer,66,No,La Aguacatala,#1422,14,Tecnología
+2017-01-08,16:00:00,6.26576631,-75.57481498,Hombre,26,Arma de fuego,Caribe,#0517,5,Tecnología
+2017-01-08,15:00:00,6.27653477,-75.57016206,Hombre,27,No,Terminal de Transporte,#Inst_4,5,Prendas de vestir y accesorios
+2017-01-08,15:00:00,6.22880884,-75.50419416,Hombre,27,No,Piedra Gorda,#9010,90,Tecnología
+2017-01-08,19:00:00,6.24679978,-75.55618996,Hombre,21,Arma cortopunzante,Boston,#1016,10,Tecnología
+2017-01-08,20:30:00,6.25445399,-75.56931493,Hombre,62,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-08,19:00:00,6.26483832,-75.55170683,Hombre,39,Arma de fuego,Manrique Central No.2,#0307,3,Otros elementos
+2017-01-08,16:00:00,6.26576631,-75.57481498,Hombre,26,Arma de fuego,Caribe,#0517,5,Prendas de vestir y accesorios
+2017-01-08,00:00:00,6.28269803,-75.56242665,Hombre,23,Arma cortopunzante,Aranjuez,#0413,4,Tecnología
+2017-01-08,15:00:00,6.25147201,-75.5644749,Hombre,34,No,La Candelaria,#1019,10,Tecnología
+2017-01-08,00:00:00,6.24531877,-75.60248103,Hombre,25,No,Lorena,#1111,11,Vehículos de 2 o 4 ruedas
+2017-01-08,13:10:00,6.21313566,-75.56968298,Hombre,33,Objeto contundente,Lalinde,#1405,14,Prendas de vestir y accesorios
+2017-01-08,18:00:00,6.24599834,-75.56718862,Hombre,44,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-08,14:00:00,6.24580937,-75.58103409,Hombre,27,Arma de fuego,Los Conquistadores,#1105,11,Tecnología
+2017-01-08,11:00:00,6.25793551,-75.611622,Mujer,36,No,San Javier No.2,#1308,13,Tecnología
+2017-01-08,20:30:00,6.21590343,-75.60568895,Mujer,26,No,Área de expansión Belén,#AE6,70,Tecnología
+2017-01-08,20:00:00,6.25508061,-75.58280975,Hombre,29,Arma cortopunzante,Suramericana,#1102,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-09,00:00:00,6.25777553,-75.59135523,Hombre,27,No,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2017-01-09,18:30:00,6.27766343,-75.57219799,Hombre,31,No,Terminal de Transporte,#Inst_4,5,Tecnología
+2017-01-09,18:00:00,6.25533326,-75.61811027,Hombre,23,No,San Javier No.1,#1309,13,Tecnología
+2017-01-09,16:00:00,6.24500651,-75.5678717,Mujer,20,No,Barrio Colón,#1013,10,Tecnología
+2017-01-09,09:30:00,6.23795976,-75.58962789,Mujer,69,Escopolamina,Rosales,#1602,16,Prendas de vestir y accesorios
+2017-01-09,09:30:00,6.23795976,-75.58962789,Mujer,69,Escopolamina,Rosales,#1602,16,Prendas de vestir y accesorios
+2017-01-09,14:20:00,6.24154862,-75.54133739,Mujer,27,No,La Libertad,#0812,8,Tecnología
+2017-01-09,06:00:00,6.20868266,-75.56563821,Hombre,27,Arma cortopunzante,El Poblado,#1418,14,Tecnología
+2017-01-09,19:00:00,6.24634591,-75.56719026,Mujer,23,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-09,09:30:00,6.23795976,-75.58962789,Mujer,69,Escopolamina,Rosales,#1602,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-09,13:15:00,6.24702253,-75.5670866,Mujer,61,No,Barrio Colón,#1013,10,Tecnología
+2017-01-09,17:30:00,6.19756867,-75.57414617,Hombre,26,No,Los Balsos No.2,#1415,14,Tecnología
+2017-01-09,10:00:00,6.29354175,-75.58402743,Hombre,19,No,Picacho,#0608,6,Autoparte y elementos de la mecánica automotriz
+2017-01-09,08:15:00,6.21058119,-75.57033744,Mujer,26,No,El Poblado,#1418,14,Otros elementos
+2017-01-09,13:30:00,6.25459738,-75.58416154,Hombre,37,Arma cortopunzante,Suramericana,#1102,11,Vehículos de 2 o 4 ruedas
+2017-01-09,15:00:00,6.25258703,-75.56266632,Hombre,23,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-09,16:00:00,6.30020091,-75.55223513,Hombre,56,Arma cortopunzante,La Francia,#0205,2,Tecnología
+2017-01-10,13:00:00,6.25260687,-75.58819731,Hombre,26,Arma cortopunzante,Florida Nueva,#1117,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,16:00:00,6.24804275,-75.55840493,Mujer,35,No,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,22:00:00,6.21245326,-75.57196719,Hombre,26,No,Manila,#1419,14,Tecnología
+2017-01-10,15:30:00,6.25027805,-75.56778397,Hombre,21,No,La Candelaria,#1019,10,Otros elementos
+2017-01-10,22:00:00,6.21245326,-75.57196719,Hombre,26,No,Manila,#1419,14,Tecnología
+2017-01-10,10:00:00,6.24035885,-75.55874463,Mujer,60,No,Gerona,#0911,9,Documentos
+2017-01-10,10:45:00,6.22981421,-75.57001557,Mujer,39,Arma cortopunzante,Perpetuo Socorro,#1012,10,Documentos
+2017-01-10,22:00:00,6.21245326,-75.57196719,Hombre,26,No,Manila,#1419,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,10:00:00,6.24035885,-75.55874463,Mujer,60,No,Gerona,#0911,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,22:00:00,6.21245326,-75.57196719,Hombre,26,No,Manila,#1419,14,Tecnología
+2017-01-10,22:00:00,6.21245326,-75.57196719,Hombre,26,No,Manila,#1419,14,Tecnología
+2017-01-10,10:00:00,6.25627178,-75.5807605,Hombre,38,Arma de fuego,Carlos E. Restrepo,#1101,11,Tecnología
+2017-01-10,16:00:00,6.24804275,-75.55840493,Mujer,35,No,Boston,#1016,10,Tecnología
+2017-01-10,15:45:00,6.24934766,-75.57403311,Hombre,31,No,Guayaquil,#1007,10,Documentos
+2017-01-10,15:00:00,6.27746258,-75.581077,Mujer,39,Objeto contundente,Altamira,#0708,7,Prendas de vestir y accesorios
+2017-01-10,10:45:00,6.22981421,-75.57001557,Mujer,39,Arma cortopunzante,Perpetuo Socorro,#1012,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,10:00:00,6.25627178,-75.5807605,Hombre,38,Arma de fuego,Carlos E. Restrepo,#1101,11,Prendas de vestir y accesorios
+2017-01-10,15:45:00,6.24934766,-75.57403311,Hombre,31,No,Guayaquil,#1007,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,14:00:00,6.26543171,-75.54484715,Hombre,19,Arma de fuego,Versalles No.1,#0309,3,Tecnología
+2017-01-10,22:00:00,6.21245326,-75.57196719,Hombre,26,No,Manila,#1419,14,Electrodomésticos
+2017-01-10,16:00:00,6.24653078,-75.57009351,Mujer,33,Arma cortopunzante,Guayaquil,#1007,10,Tecnología
+2017-01-10,20:30:00,6.22633755,-75.55929471,Hombre,20,Arma cortopunzante,Asomadera No.1,#0914,9,Tecnología
+2017-01-10,06:45:00,6.24350569,-75.56659307,Hombre,32,No,Barrio Colón,#1013,10,Tecnología
+2017-01-10,20:30:00,6.22633755,-75.55929471,Hombre,20,Arma cortopunzante,Asomadera No.1,#0914,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,15:40:00,6.24642795,-75.56725826,Hombre,22,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-10,16:00:00,6.23050465,-75.57530489,Mujer,36,No,Barrio Colombia,#1401,14,Documentos
+2017-01-10,11:00:00,6.21470886,-75.59847917,Hombre,77,No,La Mota,#1608,16,Prendas de vestir y accesorios
+2017-01-10,20:00:00,6.21811124,-75.58081632,Hombre,35,Objeto contundente,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,13:00:00,6.25260687,-75.58819731,Hombre,26,Arma cortopunzante,Florida Nueva,#1117,11,Tecnología
+2017-01-10,06:30:00,6.28299714,-75.60605908,Hombre,27,Arma cortopunzante,Pajarito,#0723,7,Prendas de vestir y accesorios
+2017-01-10,11:20:00,6.22123628,-75.58024015,Mujer,32,Arma de fuego,Santa Fé,#1504,15,Tecnología
+2017-01-10,12:10:00,6.24086338,-75.57223912,Hombre,27,No,Calle Nueva,#1011,10,Tecnología
+2017-01-10,22:00:00,6.21245326,-75.57196719,Hombre,26,No,Manila,#1419,14,Prendas de vestir y accesorios
+2017-01-10,10:30:00,6.23228578,-75.57249393,Hombre,30,No,Perpetuo Socorro,#1012,10,Herramientas
+2017-01-10,10:30:00,6.25325359,-75.58292236,Mujer,29,No,Suramericana,#1102,11,Tecnología
+2017-01-10,13:00:00,6.24809237,-75.57044088,Mujer,20,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-10,16:00:00,6.23050465,-75.57530489,Mujer,36,No,Barrio Colombia,#1401,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,10:00:00,6.25025325,-75.56776772,Mujer,63,No,La Candelaria,#1019,10,Tecnología
+2017-01-10,15:58:00,6.25343907,-75.56681548,Hombre,17,No,Villa Nueva,#1018,10,Tecnología
+2017-01-10,11:00:00,6.21470886,-75.59847917,Hombre,77,No,La Mota,#1608,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,10:00:00,6.24550541,-75.56607273,Hombre,37,No,Barrio Colón,#1013,10,Tecnología
+2017-01-10,06:00:00,6.17818012,-75.64482391,Hombre,20,Arma cortopunzante,Área Urbana Cgto. San Antonio de Prado,#AUC2,80,Vehículos de 2 o 4 ruedas
+2017-01-10,16:00:00,6.24653078,-75.57009351,Mujer,33,Arma cortopunzante,Guayaquil,#1007,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,20:00:00,6.21811124,-75.58081632,Hombre,35,Objeto contundente,Santa Fé,#1504,15,Documentos
+2017-01-10,12:00:00,6.25000609,-75.56165245,Hombre,61,No,La Candelaria,#1019,10,Herramientas
+2017-01-10,10:50:00,6.2355982,-75.55585812,Hombre,50,Arma de fuego,La Milagrosa,#0910,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-10,15:00:00,6.24973413,-75.56845453,Mujer,46,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-10,19:00:00,6.20783051,-75.58881249,Mujer,29,Arma de fuego,Cristo Rey,#1509,15,Tecnología
+2017-01-10,18:30:00,6.24976079,-75.56847868,Mujer,50,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-11,18:00:00,6.22884617,-75.57664599,Hombre,40,No,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,14:00:00,6.23465883,-75.59275428,Hombre,35,No,Rosales,#1602,16,Prendas de vestir y accesorios
+2017-01-11,18:00:00,6.30186773,-75.57944086,Hombre,44,No,Doce de Octubre No.2,#0603,6,Tecnología
+2017-01-11,11:00:00,6.25043802,-75.56824531,Hombre,32,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-11,14:00:00,6.23465883,-75.59275428,Hombre,35,No,Rosales,#1602,16,Prendas de vestir y accesorios
+2017-01-11,16:00:00,6.23186983,-75.58309402,Hombre,41,Arma de fuego,Fátima,#1601,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,00:00:00,6.17748434,-75.6400114,Hombre,40,No,Área Urbana Cgto. San Antonio de Prado,#AUC2,80,Prendas de vestir y accesorios
+2017-01-11,21:30:00,6.25028063,-75.56979236,Hombre,37,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-11,19:00:00,6.24481751,-75.60635414,Hombre,24,Arma de fuego,Simón Bolívar,#1211,12,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,07:00:00,6.20961059,-75.56798782,Mujer,49,No,El Poblado,#1418,14,Tecnología
+2017-01-11,19:30:00,6.25372285,-75.56458678,Hombre,23,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-11,11:00:00,6.25043802,-75.56824531,Hombre,32,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,18:00:00,6.22884617,-75.57664599,Hombre,40,No,Santa Fé,#1504,15,Documentos
+2017-01-11,15:56:00,6.27328741,-75.56405034,Mujer,27,Arma cortopunzante,Miranda,#0415,4,Tecnología
+2017-01-11,16:00:00,6.23186983,-75.58309402,Hombre,41,Arma de fuego,Fátima,#1601,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,18:12:00,6.23906362,-75.55105772,Mujer,29,Arma de fuego,Miraflores,#0908,9,Tecnología
+2017-01-11,20:45:00,6.24375366,-75.55849549,Mujer,41,Arma cortopunzante,Bomboná No.1,#1015,10,Tecnología
+2017-01-11,19:00:00,6.24481751,-75.60635414,Hombre,24,Arma de fuego,Simón Bolívar,#1211,12,Tecnología
+2017-01-11,21:30:00,6.25028063,-75.56979236,Hombre,37,No,La Candelaria,#1019,10,Tecnología
+2017-01-11,16:00:00,6.23186983,-75.58309402,Hombre,41,Arma de fuego,Fátima,#1601,16,Prendas de vestir y accesorios
+2017-01-11,11:00:00,6.25178182,-75.56696307,Hombre,26,Objeto contundente,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,14:10:00,6.28299743,-75.59574332,Hombre,24,Arma cortopunzante,Aures No.1,#0713,7,Tecnología
+2017-01-11,16:30:00,6.2493162,-75.56770887,Mujer,23,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,11:00:00,6.25178182,-75.56696307,Hombre,26,Objeto contundente,La Candelaria,#1019,10,Tecnología
+2017-01-11,11:30:00,6.25011274,-75.56412008,Mujer,51,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,15:10:00,6.24528678,-75.56855645,Hombre,29,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-11,16:00:00,6.20184577,-75.58648434,Hombre,20,Arma de fuego,Guayabal,#1510,15,Tecnología
+2017-01-11,19:00:00,6.24708919,-75.56762304,Mujer,18,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-11,15:30:00,6.22500132,-75.5771742,Hombre,40,Arma de fuego,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,14:00:00,6.23465883,-75.59275428,Hombre,35,No,Rosales,#1602,16,Tecnología
+2017-01-11,19:30:00,6.26312929,-75.56327786,Hombre,23,Arma de fuego,Prado,#1001,10,Tecnología
+2017-01-11,16:30:00,6.25313628,-75.56588497,Mujer,18,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-11,11:00:00,6.25178182,-75.56696307,Hombre,26,Objeto contundente,La Candelaria,#1019,10,Tecnología
+2017-01-11,11:30:00,6.25011274,-75.56412008,Mujer,51,Arma cortopunzante,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-11,19:00:00,6.24581737,-75.570375,Hombre,33,No,Guayaquil,#1007,10,Tecnología
+2017-01-11,14:00:00,6.19904059,-75.57389941,Mujer,52,Arma de fuego,La Aguacatala,#1422,14,Tecnología
+2017-01-11,16:30:00,6.2493162,-75.56770887,Mujer,23,No,La Candelaria,#1019,10,Documentos
+2017-01-11,22:30:00,6.23957187,-75.55120689,Hombre,26,Arma de fuego,Miraflores,#0908,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,17:10:00,6.24891825,-75.56429075,Mujer,32,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-11,18:00:00,6.26913887,-75.56552019,Mujer,17,Arma cortopunzante,Sevilla,#0407,4,Tecnología
+2017-01-11,00:00:00,6.24747313,-75.56992881,Hombre,23,No,La Candelaria,#1019,10,Tecnología
+2017-01-11,22:30:00,6.23957187,-75.55120689,Hombre,26,Arma de fuego,Miraflores,#0908,9,Tecnología
+2017-01-11,08:00:00,6.17712663,-75.64172175,Mujer,23,No,Área Urbana Cgto. San Antonio de Prado,#AUC2,80,Tecnología
+2017-01-11,10:00:00,6.25209644,-75.56409326,Mujer,59,No,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,14:10:00,6.28299743,-75.59574332,Hombre,24,Arma cortopunzante,Aures No.1,#0713,7,Prendas de vestir y accesorios
+2017-01-11,08:00:00,6.25098923,-75.56584746,Mujer,40,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,15:30:00,6.22500132,-75.5771742,Hombre,40,Arma de fuego,Santa Fé,#1504,15,Prendas de vestir y accesorios
+2017-01-11,14:00:00,6.25643309,-75.56889916,Mujer,28,No,Estación Villa,#1005,10,Prendas de vestir y accesorios
+2017-01-11,18:30:00,6.23852502,-75.57330933,Hombre,77,No,Calle Nueva,#1011,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,09:30:00,6.25721029,-75.56680765,Hombre,52,No,Jesús Nazareno,#1003,10,Tecnología
+2017-01-11,15:00:00,6.28444512,-75.58416344,Mujer,44,Arma de fuego,López de Mesa,#0710,7,Tecnología
+2017-01-11,11:40:00,6.27985411,-75.58754919,Mujer,18,No,Villa Flora,#0715,7,Tecnología
+2017-01-11,16:00:00,6.25176235,-75.57102784,Hombre,32,No,San Benito,#1006,10,Tecnología
+2017-01-11,09:10:00,6.27393844,-75.57277158,Mujer,21,Arma de fuego,Caribe,#0517,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,08:00:00,6.25110992,-75.56937184,Mujer,73,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-11,15:00:00,6.24587336,-75.56736555,Hombre,25,No,Barrio Colón,#1013,10,Tecnología
+2017-01-11,10:00:00,6.22678772,-75.57826605,Hombre,58,Objeto contundente,Trinidad,#1503,15,Otros elementos
+2017-01-12,16:00:00,6.24551074,-75.56752008,Mujer,22,Arma de fuego,Barrio Colón,#1013,10,Tecnología
+2017-01-12,17:29:00,6.25520883,-75.58862433,Mujer,19,No,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2017-01-12,20:00:00,6.27862028,-75.58023229,Mujer,21,No,Altamira,#0708,7,Tecnología
+2017-01-12,22:00:00,6.24608515,-75.58957684,Hombre,49,Arma cortopunzante,Bolivariana,#1107,11,Prendas de vestir y accesorios
+2017-01-12,20:00:00,6.27862028,-75.58023229,Mujer,21,No,Altamira,#0708,7,Documentos
+2017-01-12,20:00:00,6.27862028,-75.58023229,Mujer,21,No,Altamira,#0708,7,"Librería, Papelería y útiles"
+2017-01-12,17:00:00,6.23195515,-75.60106482,Mujer,28,Arma de fuego,Belén,#1603,16,Documentos
+2017-01-12,12:40:00,6.24400695,-75.57173755,Mujer,48,No,Calle Nueva,#1011,10,Tecnología
+2017-01-12,11:00:00,6.25561055,-75.56355681,Hombre,27,No,Prado,#1001,10,Autoparte y elementos de la mecánica automotriz
+2017-01-12,09:20:00,6.25515196,-75.58099117,Hombre,25,Arma de fuego,Suramericana,#1102,11,Tecnología
+2017-01-12,15:00:00,6.25951924,-75.59131231,Mujer,19,No,Estadio,#1113,11,Prendas de vestir y accesorios
+2017-01-12,21:00:00,6.25922675,-75.55881375,Hombre,56,No,Prado,#1001,10,Otros elementos
+2017-01-12,17:00:00,6.23936873,-75.58871057,Mujer,43,Arma de fuego,Los Conquistadores,#1105,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,16:00:00,6.21307357,-75.57763123,Hombre,22,No,Patio Bonito,#1421,14,Tecnología
+2017-01-12,15:40:00,6.25023272,-75.56953815,Hombre,36,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,16:45:00,6.24557207,-75.56595203,Mujer,24,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,12:00:00,6.23794909,-75.60840335,Hombre,34,No,La Castellana,#1110,11,Tecnología
+2017-01-12,16:00:00,6.22986472,-75.57451096,Mujer,42,No,Barrio Colombia,#1401,14,Documentos
+2017-01-12,14:40:00,6.24920088,-75.56463506,Hombre,18,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-12,15:00:00,6.25951924,-75.59131231,Mujer,19,No,Estadio,#1113,11,Accesorios del hogar
+2017-01-12,18:20:00,6.24727049,-75.57422128,Mujer,22,No,Guayaquil,#1007,10,Tecnología
+2017-01-12,16:10:00,6.24666258,-75.5680522,Hombre,25,No,Barrio Colón,#1013,10,Tecnología
+2017-01-12,19:00:00,6.23259508,-75.5768713,Hombre,50,Arma cortopunzante,Cerro Nutibara Ins.,#Inst_18,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,22:00:00,6.24608515,-75.58957684,Hombre,49,Arma cortopunzante,Bolivariana,#1107,11,Tecnología
+2017-01-12,17:00:00,6.23936873,-75.58871057,Mujer,43,Arma de fuego,Los Conquistadores,#1105,11,Tecnología
+2017-01-12,16:00:00,6.21515682,-75.5818763,Mujer,26,Arma cortopunzante,Campo Amor,#1507,15,Tecnología
+2017-01-12,17:00:00,6.23195515,-75.60106482,Mujer,28,Arma de fuego,Belén,#1603,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,22:00:00,6.24608515,-75.58957684,Hombre,49,Arma cortopunzante,Bolivariana,#1107,11,Otros elementos
+2017-01-12,17:00:00,6.24534579,-75.5637971,Mujer,58,No,La Candelaria,#1019,10,Tecnología
+2017-01-12,10:20:00,6.19768599,-75.57432856,Mujer,23,No,Los Balsos No.2,#1415,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,13:00:00,6.26551287,-75.56237664,Mujer,22,No,San Pedro,#0408,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,10:45:00,6.21371161,-75.57767596,Hombre,17,No,Manila,#1419,14,Tecnología
+2017-01-12,09:00:00,6.23367977,-75.5966135,Mujer,24,No,Belén,#1603,16,Vehículos de 2 o 4 ruedas
+2017-01-12,16:45:00,6.24557207,-75.56595203,Mujer,24,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-12,11:45:00,6.24588936,-75.56477454,Mujer,17,No,La Candelaria,#1019,10,Tecnología
+2017-01-12,22:30:00,6.23873832,-75.55587497,Mujer,44,Arma de fuego,Gerona,#0911,9,Tecnología
+2017-01-12,13:30:00,6.25389349,-75.60307112,Hombre,25,No,La Floresta,#1205,12,Tecnología
+2017-01-12,09:52:00,6.24327835,-75.575836,Hombre,59,No,La Alpujarra,#Inst_16,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-12,00:00:00,6.27661902,-75.57242458,Mujer,32,No,Terminal de Transporte,#Inst_4,5,Tecnología
+2017-01-12,19:00:00,6.24659859,-75.56776252,Hombre,43,Arma cortopunzante,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,10:00:00,6.2481237,-75.55852499,Hombre,20,Arma cortopunzante,Boston,#1016,10,Tecnología
+2017-01-13,04:40:00,6.23556805,-75.57362595,Mujer,22,No,Perpetuo Socorro,#1012,10,Tecnología
+2017-01-13,14:45:00,6.25042262,-75.56965019,Mujer,52,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-13,21:20:00,6.2501874,-75.56848135,Mujer,25,No,La Candelaria,#1019,10,Tecnología
+2017-01-13,22:00:00,6.25765761,-75.60083952,Mujer,56,No,La Floresta,#1205,12,Tecnología
+2017-01-13,16:00:00,6.28793236,-75.56960519,Hombre,21,Arma de fuego,Oleoducto,#Inst_2,5,Prendas de vestir y accesorios
+2017-01-13,04:30:00,6.27954749,-75.57195481,Hombre,19,Arma cortopunzante,Terminal de Transporte,#Inst_4,5,Prendas de vestir y accesorios
+2017-01-13,13:00:00,6.19479546,-75.58054056,Mujer,38,Arma de fuego,Santa María de los Ángeles,#1423,14,Documentos
+2017-01-13,16:10:00,6.20376501,-75.57152373,Mujer,50,No,La Florida,#1417,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,16:00:00,6.28793236,-75.56960519,Hombre,21,Arma de fuego,Oleoducto,#Inst_2,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,16:00:00,6.21518319,-75.58134127,Hombre,76,No,Campo Amor,#1507,15,Prendas de vestir y accesorios
+2017-01-13,21:00:00,6.20672013,-75.5663785,Mujer,41,No,La Florida,#1417,14,Prendas de vestir y accesorios
+2017-01-13,16:00:00,6.28793236,-75.56960519,Hombre,21,Arma de fuego,Oleoducto,#Inst_2,5,Prendas de vestir y accesorios
+2017-01-13,17:20:00,6.24080471,-75.58813658,Mujer,36,Arma de fuego,Los Conquistadores,#1105,11,Prendas de vestir y accesorios
+2017-01-13,13:00:00,6.19479546,-75.58054056,Mujer,38,Arma de fuego,Santa María de los Ángeles,#1423,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,13:30:00,6.19814464,-75.58733191,Mujer,42,Arma de fuego,Guayabal,#1510,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,22:00:00,6.20752007,-75.565429,Hombre,29,No,La Florida,#1417,14,Tecnología
+2017-01-13,05:29:00,6.28944669,-75.57124214,Hombre,29,No,Castilla,#0511,5,Tecnología
+2017-01-13,17:40:00,6.28333425,-75.58145788,Hombre,30,Arma de fuego,López de Mesa,#0710,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,16:00:00,6.28793236,-75.56960519,Hombre,21,Arma de fuego,Oleoducto,#Inst_2,5,Tecnología
+2017-01-13,12:30:00,6.25235773,-75.56670573,Mujer,37,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-13,04:30:00,6.27954749,-75.57195481,Hombre,19,Arma cortopunzante,Terminal de Transporte,#Inst_4,5,Documentos
+2017-01-13,13:30:00,6.19814464,-75.58733191,Mujer,42,Arma de fuego,Guayabal,#1510,15,Tecnología
+2017-01-13,18:15:00,6.19709936,-75.59019651,Hombre,37,Arma de fuego,La Colina,#1511,15,Tecnología
+2017-01-13,16:30:00,6.25508264,-75.55648651,Hombre,50,Arma de fuego,San Miguel,#0803,8,Tecnología
+2017-01-13,12:50:00,6.23038733,-75.56973126,Mujer,51,No,San Diego,#1020,10,Tecnología
+2017-01-13,14:50:00,6.19741689,-75.55786682,Hombre,35,Objeto contundente,Los Naranjos,#1410,14,Tecnología
+2017-01-13,16:00:00,6.28793236,-75.56960519,Hombre,21,Arma de fuego,Oleoducto,#Inst_2,5,Tecnología
+2017-01-13,12:40:00,6.21420757,-75.59697177,Hombre,23,Arma cortopunzante,La Mota,#1608,16,Tecnología
+2017-01-13,17:30:00,6.22948077,-75.58291163,Mujer,23,Arma de fuego,Trinidad,#1503,15,Tecnología
+2017-01-13,17:20:00,6.24080471,-75.58813658,Mujer,36,Arma de fuego,Los Conquistadores,#1105,11,Tecnología
+2017-01-13,11:30:00,6.2370692,-75.58617856,Mujer,14,Arma de fuego,Fátima,#1601,16,Tecnología
+2017-01-13,14:50:00,6.19741689,-75.55786682,Hombre,35,Objeto contundente,Los Naranjos,#1410,14,Tecnología
+2017-01-13,18:00:00,6.30309967,-75.55398753,Hombre,41,No,Pablo VI,#0203,2,Arma de fuego
+2017-01-13,16:30:00,6.25508264,-75.55648651,Hombre,50,Arma de fuego,San Miguel,#0803,8,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,16:55:00,6.24728904,-75.5698522,Mujer,21,No,Guayaquil,#1007,10,Tecnología
+2017-01-13,13:30:00,6.24930219,-75.57005849,Mujer,42,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,05:29:00,6.28944669,-75.57124214,Hombre,29,No,Castilla,#0511,5,Autoparte y elementos de la mecánica automotriz
+2017-01-13,00:00:00,6.27662009,-75.59727755,Mujer,20,No,Robledo,#0717,7,Tecnología
+2017-01-13,16:00:00,6.20167511,-75.58837261,Hombre,27,Arma de fuego,La Colina,#1511,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,12:30:00,6.20348834,-75.59816804,Hombre,24,Arma de fuego,El Rodeo,#Inst_20,15,Tecnología
+2017-01-13,17:30:00,6.25420278,-75.58836188,Hombre,39,Arma cortopunzante,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2017-01-13,12:45:00,6.29050511,-75.59119966,Hombre,50,Arma de fuego,Aures No.2,#0712,7,Tecnología
+2017-01-13,16:56:00,6.19917925,-75.57533708,Mujer,47,No,La Aguacatala,#1422,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,20:50:00,6.26486083,-75.57506245,Hombre,-1,Arma cortopunzante,Universidad Nacional,#Inst_8,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,17:40:00,6.23953286,-75.59676256,Hombre,21,No,Laureles,#1108,11,Vehículos de 2 o 4 ruedas
+2017-01-13,17:00:00,6.26596983,-75.55950038,Mujer,22,No,San Pedro,#0408,4,Tecnología
+2017-01-13,18:30:00,6.24446556,-75.58762159,Mujer,23,No,San Joaquín,#1104,11,Tecnología
+2017-01-13,09:30:00,6.19256089,-75.58026161,Mujer,30,No,Santa María de los Ángeles,#1423,14,Tecnología
+2017-01-13,18:00:00,6.27350604,-75.57221768,Hombre,23,Arma cortopunzante,Caribe,#0517,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-13,05:45:00,6.30286906,-75.58309683,Hombre,21,No,Mirador del Doce,#0610,6,Prendas de vestir y accesorios
+2017-01-13,18:10:00,6.24809539,-75.57044421,Hombre,36,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-14,14:30:00,6.30003749,-75.55846852,Mujer,35,No,Héctor Abad Gómez,#0507,5,Prendas de vestir y accesorios
+2017-01-14,17:10:00,6.24897158,-75.56354608,Mujer,40,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-14,14:30:00,6.30003749,-75.55846852,Mujer,35,No,Héctor Abad Gómez,#0507,5,Documentos
+2017-01-14,12:00:00,6.25221909,-75.57176437,Hombre,41,No,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-14,12:00:00,6.25221909,-75.57176437,Hombre,41,No,San Benito,#1006,10,Tecnología
+2017-01-14,23:00:00,6.24668144,-75.5680764,Mujer,45,No,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,08:30:00,6.28139777,-75.61242666,Mujer,47,Arma cortopunzante,Área de expansión Pajarito,#AE1,60,Tecnología
+2017-01-14,23:00:00,6.24668144,-75.5680764,Mujer,45,No,Barrio Colón,#1013,10,Tecnología
+2017-01-14,14:15:00,6.25088062,-75.56738164,Mujer,46,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-14,21:50:00,6.22998648,-75.56872811,Hombre,34,Objeto contundente,San Diego,#1020,10,Prendas de vestir y accesorios
+2017-01-14,21:00:00,6.24318573,-75.60111847,Mujer,30,Objeto contundente,Las Acacias,#1109,11,Tecnología
+2017-01-14,09:00:00,6.29110325,-75.55482138,Hombre,32,No,Moscú No.1,#0209,2,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,10:30:00,6.2424765,-75.55411007,Hombre,20,No,Barrio Caycedo,#0906,9,Elementos escolares
+2017-01-14,14:30:00,6.2004959,-75.57248083,Hombre,30,No,Alejandría,#1416,14,Vehículos de 2 o 4 ruedas
+2017-01-14,16:00:00,6.24878332,-75.56639053,Hombre,21,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-14,14:00:00,6.24672657,-75.5682024,Mujer,70,No,Barrio Colón,#1013,10,"Librería, Papelería y útiles"
+2017-01-14,14:40:00,6.23433418,-75.57152837,Hombre,55,Arma de fuego,Perpetuo Socorro,#1012,10,Tecnología
+2017-01-14,16:00:00,6.24878332,-75.56639053,Hombre,21,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,16:00:00,6.25397881,-75.58810439,Hombre,16,Arma cortopunzante,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2017-01-14,23:45:00,6.2845651,-75.5868813,Hombre,49,No,El Diamante,#0711,7,Tecnología
+2017-01-14,09:00:00,6.27123448,-75.57357755,Mujer,22,No,Caribe,#0517,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,10:00:00,6.2788877,-75.57098117,Mujer,27,No,Terminal de Transporte,#Inst_4,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,15:00:00,6.24412427,-75.57260122,Mujer,38,No,Centro Administrativo,#Inst_17,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,09:00:00,6.27123448,-75.57357755,Mujer,22,No,Caribe,#0517,5,Documentos
+2017-01-14,17:50:00,6.23186983,-75.6067672,Hombre,28,Arma de fuego,Los Alpes,#1615,16,Tecnología
+2017-01-14,16:00:00,6.22739033,-75.60636487,Mujer,44,No,Altavista,#1613,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,00:00:00,6.27372258,-75.5826464,Hombre,36,No,La Pilarica,#0706,7,Prendas de vestir y accesorios
+2017-01-14,17:00:00,6.26279868,-75.55729117,Mujer,42,Arma de fuego,Manrique Central No.1,#0409,4,Tecnología
+2017-01-14,12:30:00,6.30717305,-75.56554165,Mujer,38,Objeto contundente,Tejelo,#0504,5,Tecnología
+2017-01-14,15:00:00,6.24412427,-75.57260122,Mujer,38,No,Centro Administrativo,#Inst_17,10,"Librería, Papelería y útiles"
+2017-01-14,17:00:00,6.25024072,-75.56766059,Hombre,27,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-14,21:50:00,6.22998648,-75.56872811,Hombre,34,Objeto contundente,San Diego,#1020,10,Prendas de vestir y accesorios
+2017-01-14,16:10:00,6.26419053,-75.56744849,Mujer,36,No,Jesús Nazareno,#1003,10,Tecnología
+2017-01-14,16:00:00,6.24585098,-75.57238362,Mujer,37,Arma de fuego,Guayaquil,#1007,10,Tecnología
+2017-01-14,14:00:00,6.24672657,-75.5682024,Mujer,70,No,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,17:50:00,6.23186983,-75.6067672,Hombre,28,Arma de fuego,Los Alpes,#1615,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,12:30:00,6.30717305,-75.56554165,Mujer,38,Objeto contundente,Tejelo,#0504,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,14:40:00,6.23433418,-75.57152837,Hombre,55,Arma de fuego,Perpetuo Socorro,#1012,10,Prendas de vestir y accesorios
+2017-01-14,10:30:00,6.2424765,-75.55411007,Hombre,20,No,Barrio Caycedo,#0906,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,14:00:00,6.24672657,-75.5682024,Mujer,70,No,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,19:54:00,6.28784704,-75.61105471,Hombre,21,Arma de fuego,Área de expansión Pajarito,#AE1,60,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-14,16:00:00,6.27667286,-75.54635136,Hombre,17,Arma de fuego,Las Granjas,#0302,3,Tecnología
+2017-01-14,16:50:00,6.28168038,-75.60442831,Mujer,33,No,Cucaracho,#0718,7,Tecnología
+2017-01-14,16:30:00,6.25701832,-75.60076442,Hombre,19,No,La Floresta,#1205,12,Tecnología
+2017-01-14,11:00:00,6.29707865,-75.54805207,Mujer,47,No,Popular,#0103,1,Tecnología
+2017-01-14,03:00:00,6.25277367,-75.56858327,Hombre,25,No,La Candelaria,#1019,10,Tecnología
+2017-01-14,10:00:00,6.19096066,-75.58151689,Hombre,34,No,Santa María de los Ángeles,#1423,14,Otros elementos
+2017-01-14,16:10:00,6.24801949,-75.56416407,Hombre,33,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-14,20:40:00,6.24888228,-75.58091889,Hombre,28,Arma cortopunzante,Naranjal,#1103,11,Prendas de vestir y accesorios
+2017-01-14,16:30:00,6.19517945,-75.58024015,Hombre,18,No,La Aguacatala,#1422,14,Prendas de vestir y accesorios
+2017-01-14,19:40:00,6.24728649,-75.56976881,Mujer,37,No,La Candelaria,#1019,10,Tecnología
+2017-01-14,16:00:00,6.24967547,-75.56613173,Hombre,57,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-14,10:05:00,6.24368804,-75.56062024,Mujer,62,No,Bomboná No.1,#1015,10,Tecnología
+2017-01-14,10:30:00,6.27529331,-75.63398409,Mujer,31,Arma de fuego,La Loma,#6014,60,Tecnología
+2017-01-14,09:30:00,6.25160451,-75.56704503,Hombre,26,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-15,20:00:00,6.22057501,-75.59989538,Hombre,49,No,La Loma de los Bernal,#1611,16,Prendas de vestir y accesorios
+2017-01-15,01:00:00,6.20891731,-75.56838479,Mujer,22,Arma cortopunzante,El Poblado,#1418,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-15,15:00:00,6.25165384,-75.57704296,Hombre,25,No,Corazón de Jesús,#1008,10,Tecnología
+2017-01-15,01:00:00,6.20891731,-75.56838479,Mujer,22,Arma cortopunzante,El Poblado,#1418,14,Tecnología
+2017-01-15,09:50:00,6.22287879,-75.57944086,Hombre,40,Arma de fuego,Santa Fé,#1504,15,Tecnología
+2017-01-15,20:00:00,6.24868362,-75.57388332,Hombre,19,No,Guayaquil,#1007,10,Documentos
+2017-01-15,13:00:00,6.23725376,-75.55184558,Mujer,23,Arma cortopunzante,Miraflores,#0908,9,Documentos
+2017-01-15,20:00:00,6.22057501,-75.59989538,Hombre,49,No,La Loma de los Bernal,#1611,16,Tecnología
+2017-01-15,13:00:00,6.23725376,-75.55184558,Mujer,23,Arma cortopunzante,Miraflores,#0908,9,Tecnología
+2017-01-15,20:00:00,6.22057501,-75.59989538,Hombre,49,No,La Loma de los Bernal,#1611,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-15,21:00:00,6.25011604,-75.56458918,Mujer,20,Arma cortopunzante,La Candelaria,#1019,10,Medicamento
+2017-01-15,04:01:00,6.2521432,-75.55926053,Mujer,36,Arma cortopunzante,Los Ángeles,#1017,10,Tecnología
+2017-01-15,21:00:00,6.25011604,-75.56458918,Mujer,20,Arma cortopunzante,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-15,17:40:00,6.26038665,-75.56455162,Mujer,48,Arma cortopunzante,Prado,#1001,10,Tecnología
+2017-01-15,20:30:00,6.30148758,-75.56621158,Mujer,53,Arma de fuego,Girardot,#0509,5,Tecnología
+2017-01-15,05:00:00,6.22813691,-75.59200969,Hombre,35,No,San Bernardo,#1605,16,Tecnología
+2017-01-15,20:00:00,6.27329961,-75.59305025,Hombre,16,No,San Germán,#0703,7,Tecnología
+2017-01-15,18:00:00,6.23051011,-75.57814484,Hombre,42,Arma cortopunzante,Tenche,#1502,15,Prendas de vestir y accesorios
+2017-01-15,19:40:00,6.27592229,-75.59640918,Hombre,49,Arma de fuego,Robledo,#0717,7,Prendas de vestir y accesorios
+2017-01-15,13:30:00,6.24928646,-75.56450042,Mujer,27,No,La Candelaria,#1019,10,Documentos
+2017-01-15,18:00:00,6.23051011,-75.57814484,Hombre,42,Arma cortopunzante,Tenche,#1502,15,Tecnología
+2017-01-15,04:30:00,6.26448277,-75.55975242,Mujer,25,Arma de fuego,San Pedro,#0408,4,Documentos
+2017-01-15,09:50:00,6.22287879,-75.57944086,Hombre,40,Arma de fuego,Santa Fé,#1504,15,Prendas de vestir y accesorios
+2017-01-15,05:00:00,6.22813691,-75.59200969,Hombre,35,No,San Bernardo,#1605,16,Prendas de vestir y accesorios
+2017-01-15,00:00:00,6.25770685,-75.54886371,Mujer,52,No,Villa Hermosa,#0801,8,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-15,13:30:00,6.24928646,-75.56450042,Mujer,27,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-15,20:00:00,6.24868362,-75.57388332,Hombre,19,No,Guayaquil,#1007,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-15,19:40:00,6.27592229,-75.59640918,Hombre,49,Arma de fuego,Robledo,#0717,7,Tecnología
+2017-01-15,13:30:00,6.25377736,-75.6067816,Hombre,35,Objeto contundente,El Danubio,#1207,12,Tecnología
+2017-01-15,04:30:00,6.26448277,-75.55975242,Mujer,25,Arma de fuego,San Pedro,#0408,4,Tecnología
+2017-01-15,05:00:00,6.22813691,-75.59200969,Hombre,35,No,San Bernardo,#1605,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-15,18:50:00,6.24759045,-75.5699512,Mujer,21,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-15,20:00:00,6.2734018,-75.59304976,Hombre,16,No,Facultad de Minas U. Nal,#Inst_5,7,Tecnología
+2017-01-15,14:00:00,6.26978408,-75.57612028,Hombre,27,Objeto contundente,Progreso,#0519,5,Vehículos de 2 o 4 ruedas
+2017-01-15,09:30:00,6.28609543,-75.60297456,Mujer,28,No,Pajarito,#0723,7,Tecnología
+2017-01-15,17:30:00,6.23260574,-75.59611883,Mujer,36,Arma de fuego,Belén,#1603,16,Tecnología
+2017-01-15,11:00:00,6.25444338,-75.57993442,Hombre,47,No,Suramericana,#1102,11,Documentos
+2017-01-15,10:30:00,6.23616798,-75.58802929,Mujer,33,Arma de fuego,Rosales,#1602,16,Tecnología
+2017-01-15,06:00:00,6.2521161,-75.55708733,Mujer,33,No,Los Ángeles,#1017,10,Fauna
+2017-01-15,18:00:00,6.2451558,-75.54576978,Hombre,34,No,El Pinal,#0810,8,Tecnología
+2017-01-15,20:00:00,6.29008387,-75.58484552,Hombre,20,No,Kennedy,#0607,6,Autoparte y elementos de la mecánica automotriz
+2017-01-16,17:45:00,6.28296544,-75.54637458,Mujer,30,No,La Salle,#0301,3,Tecnología
+2017-01-16,21:30:00,6.25114192,-75.6088325,Hombre,38,Arma de fuego,El Danubio,#1207,12,Elementos escolares
+2017-01-16,15:00:00,6.20345367,-75.57685522,Mujer,48,No,Patio Bonito,#1421,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,12:00:00,6.17376826,-75.65021065,Mujer,48,Objeto contundente,Área Urbana Cgto. San Antonio de Prado,#AUC2,80,Tecnología
+2017-01-16,14:40:00,6.27416724,-75.5605581,Hombre,30,Arma de fuego,Brasilia,#0414,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,06:30:00,6.23864584,-75.57323312,Mujer,29,No,Calle Nueva,#1011,10,Tecnología
+2017-01-16,16:15:00,6.25190314,-75.58980893,Hombre,32,Arma de fuego,Florida Nueva,#1117,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,18:30:00,6.27091643,-75.57708962,Hombre,43,No,Progreso,#0519,5,Tecnología
+2017-01-16,16:15:00,6.25190314,-75.58980893,Hombre,32,Arma de fuego,Florida Nueva,#1117,11,Tecnología
+2017-01-16,05:10:00,6.21493818,-75.58224108,Mujer,32,Arma cortopunzante,Campo Amor,#1507,15,Tecnología
+2017-01-16,23:00:00,6.25473207,-75.56725682,Hombre,33,Arma cortopunzante,Estación Villa,#1005,10,Tecnología
+2017-01-16,23:30:00,6.25748518,-75.5778464,Mujer,20,Arma de fuego,Carlos E. Restrepo,#1101,11,Tecnología
+2017-01-16,11:00:00,6.23318701,-75.61256755,Hombre,48,Objeto contundente,Las Violetas,#1616,16,Tecnología
+2017-01-16,11:00:00,6.23318701,-75.61256755,Hombre,48,Objeto contundente,Las Violetas,#1616,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,15:00:00,6.20345367,-75.57685522,Mujer,48,No,Patio Bonito,#1421,14,Documentos
+2017-01-16,20:06:00,6.2309526,-75.56856718,Mujer,21,No,San Diego,#1020,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,21:30:00,6.25114192,-75.6088325,Hombre,38,Arma de fuego,El Danubio,#1207,12,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,06:30:00,6.19756867,-75.59001412,Mujer,49,No,La Colina,#1511,15,Documentos
+2017-01-16,06:30:00,6.23864584,-75.57323312,Mujer,29,No,Calle Nueva,#1011,10,Tecnología
+2017-01-16,15:55:00,6.24492949,-75.60251858,Mujer,39,No,Las Acacias,#1109,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,19:00:00,6.25023539,-75.56770887,Hombre,58,No,La Candelaria,#1019,10,Documentos
+2017-01-16,06:30:00,6.19756867,-75.59001412,Mujer,49,No,La Colina,#1511,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,20:06:00,6.2309526,-75.56856718,Mujer,21,No,San Diego,#1020,10,Documentos
+2017-01-16,22:40:00,6.19514745,-75.57939258,Hombre,22,Objeto contundente,La Aguacatala,#1422,14,Tecnología
+2017-01-16,06:20:00,6.22187622,-75.57541218,Mujer,30,Arma cortopunzante,Villa Carlota,#1403,14,Tecnología
+2017-01-16,14:42:00,6.25026738,-75.56895342,Hombre,22,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-16,14:00:00,6.2632626,-75.59950914,Hombre,20,No,Calasanz,#1202,12,Tecnología
+2017-01-16,14:00:00,6.26463302,-75.56027915,Mujer,23,No,San Pedro,#0408,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-16,21:00:00,6.24107667,-75.5555467,Mujer,17,Objeto contundente,Buenos Aires,#0907,9,Tecnología
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,Tecnología
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,Tecnología
+2017-01-17,11:00:00,6.2580179,-75.56282083,Mujer,21,No,Prado,#1001,10,Tecnología
+2017-01-17,11:00:00,6.29420026,-75.59392478,Hombre,54,No,Aures No.2,#0712,7,Documentos
+2017-01-17,15:30:00,6.29954298,-75.56923237,Hombre,27,Arma cortopunzante,Girardot,#0509,5,Tecnología
+2017-01-17,18:30:00,6.24669991,-75.56688812,Hombre,27,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-17,21:00:00,6.25619949,-75.58004301,Mujer,26,Arma cortopunzante,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,16:00:00,6.29505072,-75.54084119,Mujer,29,No,Santo Domingo Savio No.2,#0102,1,Otros elementos
+2017-01-17,12:00:00,6.24817169,-75.5585679,Mujer,23,Arma de fuego,Boston,#1016,10,Tecnología
+2017-01-17,09:30:00,6.20884798,-75.56610491,Hombre,34,No,El Poblado,#1418,14,Tecnología
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,Elementos escolares
+2017-01-17,18:00:00,6.25146187,-75.57212379,Mujer,40,No,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-17,17:15:00,6.23702362,-75.55125814,Hombre,56,Arma cortopunzante,Miraflores,#0908,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,09:30:00,6.20884798,-75.56610491,Hombre,34,No,El Poblado,#1418,14,Prendas de vestir y accesorios
+2017-01-17,14:00:00,6.19740544,-75.55927763,Mujer,40,No,Los Naranjos,#1410,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,14:00:00,6.19740544,-75.55927763,Mujer,40,No,Los Naranjos,#1410,14,Prendas de vestir y accesorios
+2017-01-17,20:23:00,6.2419779,-75.57173168,Mujer,23,No,Calle Nueva,#1011,10,Tecnología
+2017-01-17,17:00:00,6.24969098,-75.57086502,Hombre,49,Arma cortopunzante,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-17,09:30:00,6.20884798,-75.56610491,Hombre,34,No,El Poblado,#1418,14,Tecnología
+2017-01-17,19:00:00,6.24689252,-75.5741623,Hombre,-1,Arma cortopunzante,Guayaquil,#1007,10,Tecnología
+2017-01-17,19:35:00,6.21581553,-75.60566847,Mujer,-1,Arma de fuego,Área de expansión Belén,#AE6,70,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,15:45:00,6.24944617,-75.55932965,Hombre,51,Arma cortopunzante,Boston,#1016,10,Tecnología
+2017-01-17,21:55:00,6.30795418,-75.57002362,Mujer,27,Arma de fuego,Tejelo,#0504,5,Tecnología
+2017-01-17,09:30:00,6.20884798,-75.56610491,Hombre,34,No,El Poblado,#1418,14,Documentos
+2017-01-17,19:35:00,6.21587143,-75.60556021,Hombre,48,No,Área de expansión Belén,#AE6,70,Tecnología
+2017-01-17,22:30:00,6.24456154,-75.56793162,Mujer,24,No,Barrio Colón,#1013,10,Documentos
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,Tecnología
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,Tecnología
+2017-01-17,11:30:00,6.24464687,-75.56967225,Mujer,29,Arma de fuego,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,10:00:00,6.18629275,-75.65708346,Mujer,29,No,Área Urbana Cgto. San Antonio de Prado,#AUC2,80,Tecnología
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,Accesorios del hogar
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,11:00:00,6.29420026,-75.59392478,Hombre,54,No,Aures No.2,#0712,7,Documentos
+2017-01-17,20:00:00,6.22137515,-75.59212131,Hombre,57,No,Parque Juan Pablo II,#Inst_19,15,Prendas de vestir y accesorios
+2017-01-17,19:35:00,6.21587143,-75.60556021,Hombre,48,No,Área de expansión Belén,#AE6,70,Tecnología
+2017-01-17,18:30:00,6.26597678,-75.61392333,Mujer,41,Objeto contundente,Juan XXIIIi la Quiebra,#1307,13,Tecnología
+2017-01-17,15:45:00,6.24944617,-75.55932965,Hombre,51,Arma cortopunzante,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,23:00:00,6.20922971,-75.56816217,Hombre,25,No,El Poblado,#1418,14,Tecnología
+2017-01-17,13:00:00,6.22669707,-75.57104554,Mujer,37,Arma de fuego,Barrio Colombia,#1401,14,Tecnología
+2017-01-17,19:00:00,6.24689252,-75.5741623,Hombre,-1,Arma cortopunzante,Guayaquil,#1007,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,20:50:00,6.213503,-75.57708304,Hombre,26,Objeto contundente,Manila,#1419,14,Tecnología
+2017-01-17,06:10:00,6.30020948,-75.55869129,Hombre,27,No,Héctor Abad Gómez,#0507,5,Tecnología
+2017-01-17,00:00:00,6.24996408,-75.56780072,Hombre,38,Arma de fuego,La Candelaria,#1019,10,Tecnología
+2017-01-17,11:00:00,6.25290165,-75.56298819,Mujer,32,No,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2017-01-17,15:00:00,6.25019806,-75.56783225,Mujer,31,No,La Candelaria,#1019,10,Tecnología
+2017-01-17,19:00:00,6.19392617,-75.58170464,Hombre,47,No,Santa María de los Ángeles,#1423,14,Tecnología
+2017-01-17,15:00:00,6.27644945,-75.59706297,Hombre,22,No,Robledo,#0717,7,Prendas de vestir y accesorios
+2017-01-17,13:00:00,6.22538845,-75.57913392,Hombre,32,No,Santa Fé,#1504,15,Tecnología
+2017-01-17,17:30:00,6.24717451,-75.56966689,Hombre,20,No,Guayaquil,#1007,10,Tecnología
+2017-01-17,08:00:00,6.2544485,-75.5687795,Hombre,36,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-17,15:30:00,6.19738734,-75.59011068,Hombre,22,Arma de fuego,La Colina,#1511,15,Tecnología
+2017-01-17,15:00:00,6.25017673,-75.56771424,Mujer,81,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-17,14:34:00,6.25495466,-75.61715271,Hombre,23,No,San Javier No.1,#1309,13,Tecnología
+2017-01-18,15:40:00,6.25051536,-75.57254761,Mujer,20,No,San Benito,#1006,10,Prendas de vestir y accesorios
+2017-01-18,19:00:00,6.24458821,-75.59471335,Hombre,59,Arma cortopunzante,Laureles,#1108,11,Tecnología
+2017-01-18,02:00:00,6.29630109,-75.58611956,Hombre,25,Arma de fuego,Picacho,#0608,6,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,18:50:00,6.2160092,-75.58564836,Hombre,57,No,Campo Amor,#1507,15,Vehículos de 2 o 4 ruedas
+2017-01-18,14:00:00,6.21141275,-75.56981893,Hombre,40,No,El Poblado,#1418,14,Tecnología
+2017-01-18,14:00:00,6.25511463,-75.57879713,Mujer,26,Arma cortopunzante,Carlos E. Restrepo,#1101,11,Tecnología
+2017-01-18,16:00:00,6.2333407,-75.58340456,Hombre,30,Arma de fuego,Fátima,#1601,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,13:30:00,6.30601068,-75.56913581,Hombre,70,No,Tejelo,#0504,5,Prendas de vestir y accesorios
+2017-01-18,15:00:00,6.21305566,-75.5785289,Mujer,48,Arma cortopunzante,Campo Amor,#1507,15,Tecnología
+2017-01-18,19:00:00,6.25455472,-75.57379749,Hombre,77,Arma cortopunzante,San Benito,#1006,10,Tecnología
+2017-01-18,14:00:00,6.21101315,-75.60471799,Hombre,34,No,El Rincón,#1610,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,17:45:00,6.24501546,-75.589526,Hombre,37,No,Bolivariana,#1107,11,Vehículos de 2 o 4 ruedas
+2017-01-18,19:30:00,6.25474158,-75.57832939,Mujer,26,No,Carlos E. Restrepo,#1101,11,Tecnología
+2017-01-18,18:30:00,6.24068327,-75.55071547,Hombre,23,Arma de fuego,Alejandro Echavarría,#0905,9,Tecnología
+2017-01-18,10:00:00,6.2392233,-75.55597659,Mujer,61,No,Buenos Aires,#0907,9,Tecnología
+2017-01-18,16:00:00,6.2333407,-75.58340456,Hombre,30,Arma de fuego,Fátima,#1601,16,Tecnología
+2017-01-18,17:45:00,6.24446556,-75.58791127,Hombre,23,Arma cortopunzante,San Joaquín,#1104,11,Vehículos de 2 o 4 ruedas
+2017-01-18,12:00:00,6.19299288,-75.58135595,Hombre,26,No,Santa María de los Ángeles,#1423,14,Tecnología
+2017-01-18,14:00:00,6.21101315,-75.60471799,Hombre,34,No,El Rincón,#1610,16,Documentos
+2017-01-18,13:30:00,6.30601068,-75.56913581,Hombre,70,No,Tejelo,#0504,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,18:30:00,6.25432009,-75.58841553,Mujer,22,No,U.D. Atanasio Girardot,#Inst_14,11,Prendas de vestir y accesorios
+2017-01-18,09:40:00,6.21877251,-75.58261123,Mujer,23,No,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,21:30:00,6.23966516,-75.59605656,Mujer,34,Arma de fuego,Laureles,#1108,11,Tecnología
+2017-01-18,15:30:00,6.24666791,-75.55630948,Hombre,23,No,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,14:00:00,6.25511463,-75.57879713,Mujer,26,Arma cortopunzante,Carlos E. Restrepo,#1101,11,Documentos
+2017-01-18,11:55:00,6.1968327,-75.55847135,Hombre,50,No,Los Naranjos,#1410,14,Vehículos de 2 o 4 ruedas
+2017-01-18,16:00:00,6.24578907,-75.56706194,Mujer,25,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-18,21:15:00,6.25186181,-75.56881394,Hombre,71,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-18,09:40:00,6.21877251,-75.58261123,Mujer,23,No,Santa Fé,#1504,15,Documentos
+2017-01-18,20:15:00,6.25126909,-75.57567611,Hombre,72,Arma cortopunzante,Corazón de Jesús,#1008,10,Tecnología
+2017-01-18,23:15:00,6.25456516,-75.56399687,Hombre,35,Arma cortopunzante,Villa Nueva,#1018,10,Vehículos de 2 o 4 ruedas
+2017-01-18,23:00:00,6.26908021,-75.54811802,Hombre,40,Arma de fuego,El Raizal,#0305,3,Tecnología
+2017-01-18,07:30:00,6.29992462,-75.55633598,Mujer,36,No,La Francia,#0205,2,Prendas de vestir y accesorios
+2017-01-18,12:00:00,6.19299288,-75.58135595,Hombre,26,No,Santa María de los Ángeles,#1423,14,Tecnología
+2017-01-18,10:30:00,6.24230052,-75.58663454,Hombre,55,Arma de fuego,Los Conquistadores,#1105,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,17:00:00,6.300796,-75.55248465,Hombre,26,No,La Francia,#0205,2,Tecnología
+2017-01-18,10:50:00,6.27144244,-75.5562773,Hombre,30,Arma de fuego,Campo Valdés No.1,#0410,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,16:00:00,6.21185755,-75.58678442,Mujer,19,No,Campo Amor,#1507,15,Tecnología
+2017-01-18,14:30:00,6.25907152,-75.56445811,Hombre,30,Arma cortopunzante,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-18,09:30:00,6.22712945,-75.57022955,Mujer,25,Arma cortopunzante,Barrio Colombia,#1401,14,Tecnología
+2017-01-18,18:15:00,6.25412812,-75.57816949,Hombre,18,Arma cortopunzante,Suramericana,#1102,11,Tecnología
+2017-01-18,15:50:00,6.26881575,-75.57650457,Hombre,38,Objeto contundente,Ecoparque Cerro El Volador,#Inst_7,7,Autoparte y elementos de la mecánica automotriz
+2017-01-18,16:45:00,6.25641811,-75.58046277,Hombre,14,Arma cortopunzante,Carlos E. Restrepo,#1101,11,Vehículos de 2 o 4 ruedas
+2017-01-18,10:15:00,6.25372818,-75.56453314,Mujer,73,No,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2017-01-18,21:00:00,6.26774713,-75.5657505,Mujer,14,Arma cortopunzante,Sevilla,#0407,4,Tecnología
+2017-01-19,14:00:00,6.25248305,-75.56782689,Mujer,19,No,La Candelaria,#1019,10,Tecnología
+2017-01-19,17:50:00,6.24659697,-75.56823224,Hombre,67,No,Barrio Colón,#1013,10,Tecnología
+2017-01-19,19:00:00,6.24858763,-75.55781689,Mujer,38,Arma de fuego,Boston,#1016,10,Tecnología
+2017-01-19,18:45:00,6.22934211,-75.57020869,Mujer,21,No,Perpetuo Socorro,#1012,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,16:00:00,6.2890761,-75.58909681,Mujer,50,No,Aures No.2,#0712,7,Documentos
+2017-01-19,18:45:00,6.22934211,-75.57020869,Mujer,21,No,Perpetuo Socorro,#1012,10,Tecnología
+2017-01-19,00:00:00,6.27559493,-75.63604661,Mujer,59,No,Área Urbana Cgto. San Cristóbal,#AUC1,60,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,04:00:00,6.25221909,-75.62120285,Hombre,32,No,Veinte de Julio,#1310,13,Tecnología
+2017-01-19,18:00:00,6.2672083,-75.55376729,Mujer,22,Arma de fuego,El Pomar,#0306,3,Otros elementos
+2017-01-19,00:00:00,6.2417246,-75.58091607,Hombre,28,Arma cortopunzante,Los Conquistadores,#1105,11,Prendas de vestir y accesorios
+2017-01-19,13:40:00,6.25357887,-75.56829359,Mujer,28,Objeto contundente,La Candelaria,#1019,10,Tecnología
+2017-01-19,20:40:00,6.2494783,-75.56483763,Mujer,58,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-19,09:00:00,6.21124247,-75.57004776,Hombre,45,Arma de fuego,El Poblado,#1418,14,Tecnología
+2017-01-19,20:00:00,6.25605848,-75.56646433,Mujer,29,No,Estación Villa,#1005,10,Tecnología
+2017-01-19,19:30:00,6.24745395,-75.56879262,Hombre,20,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-19,14:00:00,6.23922893,-75.5727407,Hombre,45,Arma de fuego,Calle Nueva,#1011,10,Tecnología
+2017-01-19,10:00:00,6.26582748,-75.56604054,Hombre,59,No,Sevilla,#0407,4,Otros elementos
+2017-01-19,11:24:00,6.25226175,-75.56982245,Hombre,76,No,San Benito,#1006,10,Tecnología
+2017-01-19,19:00:00,6.25418678,-75.57683911,Hombre,28,Arma de fuego,San Benito,#1006,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,16:30:00,6.21300233,-75.57784762,Mujer,45,No,Patio Bonito,#1421,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,14:00:00,6.25248305,-75.56782689,Mujer,19,No,La Candelaria,#1019,10,Tecnología
+2017-01-19,12:00:00,6.24629997,-75.5669364,Hombre,25,Arma cortopunzante,Barrio Colón,#1013,10,Tecnología
+2017-01-19,20:00:00,6.25605848,-75.56646433,Mujer,29,No,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,16:00:00,6.2890761,-75.58909681,Mujer,50,No,Aures No.2,#0712,7,Documentos
+2017-01-19,14:00:00,6.23922893,-75.5727407,Hombre,45,Arma de fuego,Calle Nueva,#1011,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,16:30:00,6.21300233,-75.57784762,Mujer,45,No,Patio Bonito,#1421,14,Tecnología
+2017-01-19,16:05:00,6.25222975,-75.56285944,Hombre,23,Arma de fuego,Villa Nueva,#1018,10,Tecnología
+2017-01-19,19:00:00,6.25418678,-75.57683911,Hombre,28,Arma de fuego,San Benito,#1006,10,Tecnología
+2017-01-19,12:30:00,6.24925723,-75.56505412,Mujer,31,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,15:00:00,6.2409567,-75.5722579,Hombre,41,Arma de fuego,Calle Nueva,#1011,10,Tecnología
+2017-01-19,18:50:00,6.25138188,-75.5702677,Hombre,13,Arma cortopunzante,San Benito,#1006,10,Tecnología
+2017-01-19,10:00:00,6.26477363,-75.56696415,Hombre,59,No,Sevilla,#0407,4,Otros elementos
+2017-01-19,18:15:00,6.17318533,-75.64761724,Mujer,24,No,Área Urbana Cgto. San Antonio de Prado,#AUC2,80,Tecnología
+2017-01-19,13:30:00,6.2484555,-75.5702987,Hombre,42,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-19,06:00:00,6.30019881,-75.55849817,Mujer,54,No,Héctor Abad Gómez,#0507,5,Tecnología
+2017-01-19,12:40:00,6.22575255,-75.57521971,Hombre,28,No,Barrio Colombia,#1401,14,Vehículos de 2 o 4 ruedas
+2017-01-19,15:00:00,6.25674918,-75.58369625,Hombre,18,Arma cortopunzante,Suramericana,#1102,11,Tecnología
+2017-01-19,16:00:00,6.21952977,-75.60562458,Mujer,29,No,La Loma de los Bernal,#1611,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-19,14:00:00,6.21181798,-75.6008051,Hombre,18,Arma cortopunzante,El Rincón,#1610,16,Tecnología
+2017-01-20,11:30:00,6.24399629,-75.56873884,Hombre,55,No,Barrio Colón,#1013,10,Tecnología
+2017-01-20,10:00:00,6.21117116,-75.57582641,Hombre,42,Arma cortopunzante,Patio Bonito,#1421,14,Tecnología
+2017-01-20,19:15:00,6.2449135,-75.57163026,Hombre,50,Arma de fuego,Centro Administrativo,#Inst_17,10,Prendas de vestir y accesorios
+2017-01-20,15:00:00,6.25040603,-75.5682024,Mujer,31,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2017-01-20,15:00:00,6.25040603,-75.5682024,Mujer,31,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,20:40:00,6.24499882,-75.59530344,Mujer,39,No,Laureles,#1108,11,Tecnología
+2017-01-20,00:00:00,6.20768028,-75.56597513,Hombre,21,Escopolamina,El Poblado,#1418,14,Prendas de vestir y accesorios
+2017-01-20,00:00:00,6.20768028,-75.56597513,Hombre,21,Escopolamina,El Poblado,#1418,14,Tecnología
+2017-01-20,19:40:00,6.3109051,-75.56764599,Mujer,39,No,Florencia,#0503,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,11:00:00,6.26361454,-75.56315448,Hombre,24,Arma de fuego,Prado,#1001,10,Electrodomésticos
+2017-01-20,19:15:00,6.2449135,-75.57163026,Hombre,50,Arma de fuego,Centro Administrativo,#Inst_17,10,Prendas de vestir y accesorios
+2017-01-20,11:30:00,6.2822296,-75.56004848,Mujer,40,Arma de fuego,Aranjuez,#0413,4,Tecnología
+2017-01-20,16:00:00,6.24975923,-75.56582531,Mujer,64,No,La Candelaria,#1019,10,Tecnología
+2017-01-20,16:00:00,6.24975923,-75.56582531,Mujer,64,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,13:00:00,6.25631601,-75.5628838,Hombre,28,No,Prado,#1001,10,Tecnología
+2017-01-20,14:00:00,6.21207441,-75.58551874,Mujer,36,No,Campo Amor,#1507,15,Vehículos de 2 o 4 ruedas
+2017-01-20,16:00:00,6.24940855,-75.56444731,Mujer,29,Objeto contundente,La Candelaria,#1019,10,Documentos
+2017-01-20,20:45:00,6.25086463,-75.60263123,Hombre,26,Arma de fuego,La América,#1204,12,Tecnología
+2017-01-20,22:00:00,6.23889089,-75.54870244,Mujer,18,No,Alejandro Echavarría,#0905,9,Tecnología
+2017-01-20,16:00:00,6.21569011,-75.58782544,Hombre,21,No,Parque Juan Pablo II,#Inst_19,15,Documentos
+2017-01-20,10:00:00,6.26633405,-75.5650964,Hombre,44,Arma de fuego,Sevilla,#0407,4,Documentos
+2017-01-20,20:40:00,6.24499882,-75.59530344,Mujer,39,No,Laureles,#1108,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,20:10:00,6.21327513,-75.57079691,Hombre,33,No,Manila,#1419,14,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,19:40:00,6.3109051,-75.56764599,Mujer,39,No,Florencia,#0503,5,Tecnología
+2017-01-20,15:00:00,6.26874428,-75.55777397,Mujer,30,No,Manrique Central No.1,#0409,4,Tecnología
+2017-01-20,16:00:00,6.24805971,-75.57051983,Hombre,35,No,La Candelaria,#1019,10,Documentos
+2017-01-20,11:30:00,6.2822296,-75.56004848,Mujer,40,Arma de fuego,Aranjuez,#0413,4,Prendas de vestir y accesorios
+2017-01-20,07:08:00,6.25377084,-75.56596007,Hombre,56,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-20,00:00:00,6.24744647,-75.57017651,Mujer,24,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,17:00:00,6.27652411,-75.5735239,Mujer,28,No,Cementerio Universal,#Inst_3,5,Prendas de vestir y accesorios
+2017-01-20,16:00:00,6.29681031,-75.58510836,Hombre,22,No,Picacho,#0608,6,Tecnología
+2017-01-20,13:20:00,6.24719584,-75.59383359,Hombre,34,Arma de fuego,Laureles,#1108,11,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,20:00:00,6.25526394,-75.56512859,Hombre,28,Arma cortopunzante,Villa Nueva,#1018,10,Tecnología
+2017-01-20,20:45:00,6.25086463,-75.60263123,Hombre,26,Arma de fuego,La América,#1204,12,Tecnología
+2017-01-20,17:00:00,6.24526324,-75.60474514,Mujer,58,No,Simón Bolívar,#1211,12,Materia prima
+2017-01-20,09:00:00,6.25035004,-75.56047228,Mujer,58,No,Boston,#1016,10,Documentos
+2017-01-20,09:30:00,6.2829524,-75.58355061,Hombre,18,Arma cortopunzante,Altamira,#0708,7,Tecnología
+2017-01-20,10:00:00,6.26633405,-75.5650964,Hombre,44,Arma de fuego,Sevilla,#0407,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,16:00:00,6.23141752,-75.5965169,Hombre,48,No,Belén,#1603,16,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,16:00:00,6.24940855,-75.56444731,Mujer,29,Objeto contundente,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,17:00:00,6.24526324,-75.60474514,Mujer,58,No,Simón Bolívar,#1211,12,Materiales y elementos para la construcción
+2017-01-20,19:45:00,6.28790303,-75.57021406,Mujer,28,Arma de fuego,Castilla,#0511,5,Tecnología
+2017-01-20,00:00:00,6.24744647,-75.57017651,Mujer,24,Arma cortopunzante,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2017-01-20,19:00:00,6.25611317,-75.56700829,Mujer,36,No,Estación Villa,#1005,10,Tecnología
+2017-01-20,22:00:00,6.23889089,-75.54870244,Mujer,18,No,Alejandro Echavarría,#0905,9,Prendas de vestir y accesorios
+2017-01-20,18:30:00,6.25023954,-75.56959993,Hombre,52,No,La Candelaria,#1019,10,Tecnología
+2017-01-20,16:00:00,6.21569011,-75.58782544,Hombre,21,No,Parque Juan Pablo II,#Inst_19,15,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,09:00:00,6.25035004,-75.56047228,Mujer,58,No,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,17:45:00,6.25993517,-75.58911754,Hombre,16,Arma cortopunzante,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2017-01-20,16:00:00,6.24805971,-75.57051983,Hombre,35,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,13:20:00,6.24719584,-75.59383359,Hombre,34,Arma de fuego,Laureles,#1108,11,Tecnología
+2017-01-20,07:00:00,6.21290902,-75.57342201,Mujer,43,Arma de fuego,Manila,#1419,14,Tecnología
+2017-01-20,16:00:00,6.29681031,-75.58510836,Hombre,22,No,Picacho,#0608,6,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,23:03:00,6.23614132,-75.5694684,Hombre,38,Arma de fuego,San Diego,#1020,10,Tecnología
+2017-01-20,09:30:00,6.2829524,-75.58355061,Hombre,18,Arma cortopunzante,Altamira,#0708,7,Prendas de vestir y accesorios
+2017-01-20,20:00:00,6.27777185,-75.56383576,Hombre,31,Arma de fuego,Aranjuez,#0413,4,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-20,16:00:00,6.26341724,-75.60058739,Mujer,59,Arma de fuego,Calasanz,#1202,12,Tecnología
+2017-01-20,09:00:00,6.25767955,-75.56576695,Mujer,22,Arma cortopunzante,Prado,#1001,10,Tecnología
+2017-01-21,07:30:00,6.23190182,-75.60418155,Mujer,52,Arma de fuego,Belén,#1603,16,Tecnología
+2017-01-21,23:30:00,6.23575737,-75.59109237,Hombre,35,Arma cortopunzante,Rosales,#1602,16,Tecnología
+2017-01-21,17:00:00,6.19859261,-75.59372094,Hombre,34,No,La Colina,#1511,15,Documentos
+2017-01-21,15:00:00,6.23144028,-75.6006843,Hombre,16,No,Belén,#1603,16,Tecnología
+2017-01-21,14:25:00,6.24278046,-75.55483427,Hombre,32,Arma de fuego,Barrio Caycedo,#0906,9,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-21,21:00:00,6.25534147,-75.58774885,Hombre,51,No,U.D. Atanasio Girardot,#Inst_14,11,Prendas de vestir y accesorios
+2017-01-21,15:30:00,6.29614646,-75.57196554,Hombre,31,Arma cortopunzante,Girardot,#0509,5,Documentos
+2017-01-21,00:00:00,6.27620353,-75.59269242,Hombre,26,Arma cortopunzante,Palenque,#0716,7,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-21,15:30:00,6.29614646,-75.57196554,Hombre,31,Arma cortopunzante,Girardot,#0509,5,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-21,15:00:00,6.25872309,-75.56933194,Hombre,37,No,Jesús Nazareno,#1003,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-21,23:00:00,6.26574216,-75.5491158,Hombre,31,Arma cortopunzante,Manrique Oriental,#0308,3,Tecnología
+2017-01-21,16:30:00,6.25870338,-75.6137785,Hombre,23,Arma de fuego,San Javier No.2,#1308,13,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-21,16:30:00,6.25870338,-75.6137785,Hombre,23,Arma de fuego,San Javier No.2,#1308,13,Prendas de vestir y accesorios
+2017-01-21,12:00:00,6.25051915,-75.5681312,Mujer,20,No,La Candelaria,#1019,10,Documentos
+2017-01-21,12:00:00,6.25051915,-75.5681312,Mujer,20,No,La Candelaria,#1019,10,Documentos
+2017-01-21,11:00:00,6.25330692,-75.59573796,Mujer,34,Arma cortopunzante,El Velódromo,#1112,11,Prendas de vestir y accesorios
+2017-01-21,19:45:00,6.2040567,-75.50385726,Hombre,67,Arma de fuego,Santa Elena sector central,#9006,90,Prendas de vestir y accesorios
+2017-01-21,21:00:00,6.25980186,-75.56738701,Hombre,27,Arma cortopunzante,Jesús Nazareno,#1003,10,"Dinero, joyas, piedras preciosas y título valor"
+2017-01-21,19:00:00,6.23306969,-75.57993438,Hombre,26,Arma cortopunzante,Tenche,#1502,15,Tecnología
+2017-01-21,21:00:00,6.25534147,-75.58774885,Hombre,51,No,U.D. Atanasio Girardot,#Inst_14,11,Tecnología
+2003-01-02,12:00:00,6.250209,-75.567513,Hombre,70,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-02,15:45:00,6.225838,-75.578195,Mujer,34,Arma de fuego,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-02,11:00:00,6.233774,-75.595339,Mujer,20,Arma de fuego,Belén,#1603,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-02,12:00:00,6.250209,-75.567513,Hombre,70,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-02,15:45:00,6.225838,-75.578195,Mujer,34,Arma de fuego,Santa Fé,#1504,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-02,11:00:00,6.233774,-75.595339,Mujer,20,Arma de fuego,Belén,#1603,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-03,16:00:00,6.247306,-75.578314,Mujer,34,Objeto contundente,Corazón de Jesús,#1008,10,Sin dato mercancías
+2003-01-03,16:00:00,6.247306,-75.578314,Mujer,34,Objeto contundente,Corazón de Jesús,#1008,10,Sin dato mercancías
+2003-01-04,11:30:00,6.252372,-75.560029,Hombre,41,Arma de fuego,Los Ángeles,#1017,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-04,16:00:00,6.251318,-75.567949,Hombre,40,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-04,16:00:00,6.251318,-75.567949,Hombre,40,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-04,11:30:00,6.252372,-75.560029,Hombre,41,Arma de fuego,Los Ángeles,#1017,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-05,00:20:00,6.251318,-75.567949,Hombre,33,Sin dato,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-05,09:00:00,6.264449,-75.567377,Hombre,26,Sin dato,Sevilla,#0407,4,Tecnología
+2003-01-05,13:45:00,6.261012,-75.567082,Hombre,45,Arma de fuego,Jesús Nazareno,#1003,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-05,19:45:00,6.24696,-75.564722,Hombre,35,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2003-01-05,00:20:00,6.251318,-75.567949,Hombre,33,Sin dato,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-05,09:00:00,6.264449,-75.567377,Hombre,26,Sin dato,Sevilla,#0407,4,Tecnología
+2003-01-05,13:45:00,6.261012,-75.567082,Hombre,45,Arma de fuego,Jesús Nazareno,#1003,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-05,19:45:00,6.24696,-75.564722,Hombre,35,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2003-01-06,06:30:00,6.2507,-75.60243,Hombre,42,Arma de fuego,La América,#1204,12,Vehículos de 2 o 4 ruedas
+2003-01-06,06:30:00,6.2507,-75.60243,Hombre,42,Arma de fuego,La América,#1204,12,Vehículos de 2 o 4 ruedas
+2003-01-07,20:00:00,6.24927,-75.557241,Hombre,27,Arma de fuego,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-07,16:30:00,6.213286,-75.576136,Mujer,30,Arma de fuego,Manila,#1419,14,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-07,20:00:00,6.24927,-75.557241,Hombre,27,Arma de fuego,Boston,#1016,10,Automóvil
+2003-01-07,11:30:00,6.257165,-75.609995,Hombre,28,Arma de fuego,Santa Lucía,#1206,12,Sin dato mercancías
+2003-01-07,16:30:00,6.213286,-75.576136,Mujer,30,Arma de fuego,Manila,#1419,14,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-07,20:00:00,6.24927,-75.557241,Hombre,27,Arma de fuego,Boston,#1016,10,Automóvil
+2003-01-07,20:00:00,6.24927,-75.557241,Hombre,27,Arma de fuego,Boston,#1016,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-07,11:30:00,6.257165,-75.609995,Hombre,28,Arma de fuego,Santa Lucía,#1206,12,Sin dato mercancías
+2003-01-08,16:00:00,6.228682,-75.596203,Hombre,71,Objeto contundente,San Bernardo,#1605,16,Documentos
+2003-01-08,16:00:00,6.228682,-75.596203,Hombre,71,Objeto contundente,San Bernardo,#1605,16,Sin dato mercancías
+2003-01-08,22:05:00,6.253421,-75.557218,Hombre,23,Arma de fuego,San Miguel,#0803,8,Sin dato mercancías
+2003-01-08,16:00:00,6.228682,-75.596203,Hombre,71,Objeto contundente,San Bernardo,#1605,16,Arma de fuego
+2003-01-08,17:15:00,6.242227,-75.572401,Hombre,36,Arma de fuego,Calle Nueva,#1011,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-08,17:40:00,6.269717,-75.575999,Hombre,29,Arma de fuego,Caribe,#0517,5,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-08,22:05:00,6.253421,-75.557218,Hombre,23,Arma de fuego,San Miguel,#0803,8,Vehículos de 2 o 4 ruedas
+2003-01-08,16:00:00,6.228682,-75.596203,Hombre,71,Objeto contundente,San Bernardo,#1605,16,Documentos
+2003-01-08,16:00:00,6.228682,-75.596203,Hombre,71,Objeto contundente,San Bernardo,#1605,16,Sin dato mercancías
+2003-01-08,22:05:00,6.253421,-75.557218,Hombre,23,Arma de fuego,San Miguel,#0803,8,Sin dato mercancías
+2003-01-08,16:00:00,6.228682,-75.596203,Hombre,71,Objeto contundente,San Bernardo,#1605,16,Arma de fuego
+2003-01-08,22:05:00,6.253421,-75.557218,Hombre,23,Arma de fuego,San Miguel,#0803,8,Vehículos de 2 o 4 ruedas
+2003-01-08,17:15:00,6.242227,-75.572401,Hombre,36,Arma de fuego,Calle Nueva,#1011,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-08,17:40:00,6.269717,-75.575999,Hombre,29,Arma de fuego,Caribe,#0517,5,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-09,23:10:00,6.244687,-75.570636,Hombre,25,Arma cortopunzante,Guayaquil,#1007,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-09,23:10:00,6.244687,-75.570636,Hombre,25,Arma cortopunzante,Guayaquil,#1007,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-11,05:15:00,6.24927,-75.557241,Hombre,37,Arma de fuego,Boston,#1016,10,Sin dato mercancías
+2003-01-11,09:45:00,6.250893,-75.605107,Mujer,35,Sin dato,La América,#1204,12,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-11,21:30:00,6.250235,-75.56948,Hombre,13,Sin dato,La Candelaria,#1019,10,Vehículos de 2 o 4 ruedas
+2003-01-11,09:45:00,6.250893,-75.605107,Mujer,35,Sin dato,La América,#1204,12,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-11,21:30:00,6.250235,-75.56948,Hombre,13,Sin dato,La Candelaria,#1019,10,Vehículos de 2 o 4 ruedas
+2003-01-11,05:15:00,6.24927,-75.557241,Hombre,37,Arma de fuego,Boston,#1016,10,Sin dato mercancías
+2003-01-12,08:00:00,6.194907,-75.580034,Mujer,13,Objeto contundente,La Aguacatala,#1422,14,Sin dato mercancías
+2003-01-12,09:00:00,6.218744,-75.586157,Hombre,69,No,Parque Juan Pablo II,#Inst_19,15,Otros elementos
+2003-01-12,08:00:00,6.194907,-75.580034,Mujer,13,Objeto contundente,La Aguacatala,#1422,14,Sin dato mercancías
+2003-01-12,09:00:00,6.218744,-75.586157,Hombre,69,Sin dato,Parque Juan Pablo II,#Inst_19,15,Otros elementos
+2003-01-13,14:30:00,6.252705,-75.568396,Hombre,31,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-13,14:30:00,6.252705,-75.568396,Hombre,31,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-14,00:10:00,6.278845,-75.577145,Mujer,43,Arma cortopunzante,Córdoba,#0709,7,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-14,11:55:00,6.242654,-75.600073,Hombre,27,Arma cortopunzante,Las Acacias,#1109,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-14,18:30:00,6.248386,-75.594865,Hombre,30,Arma de fuego,Lorena,#1111,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-14,13:30:00,6.244521,-75.589306,Mujer,36,Sin dato,Bolivariana,#1107,11,Tecnología
+2003-01-14,13:30:00,6.244521,-75.589306,Mujer,36,Sin dato,Bolivariana,#1107,11,Tecnología
+2003-01-14,11:55:00,6.242654,-75.600073,Hombre,27,Arma cortopunzante,Las Acacias,#1109,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-14,18:30:00,6.248386,-75.594865,Hombre,30,Arma de fuego,Lorena,#1111,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-14,00:10:00,6.278845,-75.577145,Mujer,43,Arma cortopunzante,Córdoba,#0709,7,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-15,04:00:00,6.257864,-75.555043,Hombre,30,Objeto contundente,La Mansión,#0802,8,Tecnología
+2003-01-15,15:00:00,6.257023,-75.601696,Hombre,37,Arma de fuego,La Floresta,#1205,12,Arma de fuego
+2003-01-15,15:00:00,6.257023,-75.601696,Hombre,37,Arma de fuego,La Floresta,#1205,12,Arma de fuego
+2003-01-15,04:00:00,6.257864,-75.555043,Hombre,30,Objeto contundente,La Mansión,#0802,8,Tecnología
+2003-01-16,07:30:00,6.258887,-75.579965,Hombre,24,Arma de fuego,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-16,07:30:00,6.258887,-75.579965,Hombre,24,Arma de fuego,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-17,00:30:00,6.249816,-75.573811,Sin dato,-1,Sin dato,Guayaquil,#1007,10,Vehículos de 2 o 4 ruedas
+2003-01-17,07:30:00,6.258887,-75.579965,Hombre,25,Arma cortopunzante,Carlos E. Restrepo,#1101,11,Sin dato mercancías
+2003-01-17,17:00:00,6.25951,-75.569691,Hombre,39,Arma de fuego,Jesús Nazareno,#1003,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-17,18:00:00,6.237285,-75.562426,Hombre,44,Arma de fuego,El Salvador,#0912,9,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-17,20:00:00,6.243556,-75.603993,Hombre,36,Arma cortopunzante,Simón Bolívar,#1211,12,Tecnología
+2003-01-17,00:30:00,6.249816,-75.573811,Sin dato,-1,Sin dato,Guayaquil,#1007,10,Vehículos de 2 o 4 ruedas
+2003-01-17,20:00:00,6.243556,-75.603993,Hombre,36,Arma cortopunzante,Simón Bolívar,#1211,12,Tecnología
+2003-01-17,17:00:00,6.25951,-75.569691,Hombre,39,Arma de fuego,Jesús Nazareno,#1003,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-17,18:00:00,6.237285,-75.562426,Hombre,44,Arma de fuego,El Salvador,#0912,9,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-17,07:30:00,6.258887,-75.579965,Hombre,25,Arma cortopunzante,Carlos E. Restrepo,#1101,11,Sin dato mercancías
+2003-01-18,11:30:00,6.275209,-75.557589,Mujer,31,Arma de fuego,Campo Valdés No.1,#0410,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-18,21:30:00,6.250955,-75.569166,Hombre,25,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-18,11:30:00,6.275209,-75.557589,Mujer,31,Arma de fuego,Campo Valdés No.1,#0410,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-18,21:30:00,6.250955,-75.569166,Hombre,25,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-19,01:00:00,6.246127,-75.586462,Hombre,19,Arma cortopunzante,San Joaquín,#1104,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-19,10:00:00,6.251318,-75.567949,Hombre,61,No,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-19,12:30:00,6.214985,-75.575978,Mujer,17,Arma cortopunzante,Villa Carlota,#1403,14,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-19,16:55:00,6.260016,-75.603497,Hombre,43,Arma de fuego,Los Alcázares,#1304,13,Arma de fuego
+2003-01-19,18:40:00,6.241921,-75.587076,Hombre,42,Sin dato,Los Conquistadores,#1105,11,Sin dato mercancías
+2003-01-19,01:00:00,6.246127,-75.586462,Hombre,19,Arma cortopunzante,San Joaquín,#1104,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-19,12:30:00,6.214985,-75.575978,Mujer,17,Arma cortopunzante,Villa Carlota,#1403,14,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-19,10:00:00,6.251318,-75.567949,Hombre,61,Sin dato,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-19,16:55:00,6.260016,-75.603497,Hombre,43,Arma de fuego,Los Alcázares,#1304,13,Arma de fuego
+2003-01-19,18:40:00,6.241921,-75.587076,Hombre,42,Sin dato,Los Conquistadores,#1105,11,Sin dato mercancías
+2003-01-20,19:30:00,6.239561,-75.583098,Hombre,32,Arma de fuego,Los Conquistadores,#1105,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-20,19:30:00,6.239561,-75.583098,Hombre,32,Arma de fuego,Los Conquistadores,#1105,11,Camionetas
+2003-01-20,19:30:00,6.239561,-75.583098,Hombre,32,Arma de fuego,Los Conquistadores,#1105,11,Camionetas
+2003-01-20,19:30:00,6.239561,-75.583098,Hombre,32,Arma de fuego,Los Conquistadores,#1105,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-21,00:01:00,6.209203,-75.585842,Hombre,24,Arma de fuego,Cristo Rey,#1509,15,Maquinaria y equipo
+2003-01-21,22:30:00,6.25614,-75.584902,Mujer,36,Arma de fuego,Suramericana,#1102,11,Sin dato mercancías
+2003-01-21,00:01:00,6.209203,-75.585842,Hombre,24,Arma de fuego,Cristo Rey,#1509,15,Maquinaria y equipo
+2003-01-21,22:30:00,6.25614,-75.584902,Mujer,36,Arma de fuego,Suramericana,#1102,11,Sin dato mercancías
+2003-01-22,05:30:00,6.28455,-75.584133,Hombre,38,Sin dato,López de Mesa,#0710,7,Herramientas
+2003-01-22,06:00:00,6.236325,-75.587864,Hombre,58,Arma de fuego,Rosales,#1602,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-22,10:30:00,6.264293,-75.566282,Mujer,18,Sin dato,Sevilla,#0407,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-22,06:00:00,6.236325,-75.587864,Hombre,58,Arma de fuego,Rosales,#1602,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-22,05:30:00,6.28455,-75.584133,Hombre,38,Sin dato,López de Mesa,#0710,7,Herramientas
+2003-01-22,10:30:00,6.264293,-75.566282,Mujer,18,Sin dato,Sevilla,#0407,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-23,10:45:00,6.256908,-75.571705,Hombre,19,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-23,16:10:00,6.259098,-75.598417,Sin dato,-1,Arma de fuego,Calasanz,#1202,12,Fauna
+2003-01-23,16:50:00,6.250955,-75.569166,Hombre,31,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-23,20:00:00,6.208857,-75.568233,Mujer,39,No,El Poblado,#1418,14,Tecnología
+2003-01-23,16:50:00,6.250955,-75.569166,Hombre,31,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-23,20:00:00,6.208857,-75.568233,Mujer,39,Sin dato,El Poblado,#1418,14,Tecnología
+2003-01-23,10:45:00,6.256908,-75.571705,Hombre,19,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-23,16:10:00,6.259098,-75.598417,Sin dato,-1,Arma de fuego,Calasanz,#1202,12,Fauna
+2003-01-24,15:00:00,6.230378,-75.573003,Hombre,34,No,Perpetuo Socorro,#1012,10,Maquinaria y equipo
+2003-01-24,16:30:00,6.243611,-75.558141,Mujer,47,Arma de fuego,Barrio Caycedo,#0906,9,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-24,15:00:00,6.230378,-75.573003,Hombre,34,Sin dato,Perpetuo Socorro,#1012,10,Maquinaria y equipo
+2003-01-24,16:30:00,6.243611,-75.558141,Mujer,47,Arma de fuego,Barrio Caycedo,#0906,9,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-25,15:00:00,6.24902,-75.566748,Hombre,42,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-25,15:00:00,6.24902,-75.566748,Hombre,42,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-26,09:00:00,6.257203,-75.559717,Hombre,22,Arma de fuego,San Miguel,#0803,8,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-26,12:00:00,6.238979,-75.59661,Mujer,45,Arma de fuego,Laureles,#1108,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-26,12:00:00,6.238979,-75.59661,Mujer,45,Arma de fuego,Laureles,#1108,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-26,09:00:00,6.257203,-75.559717,Hombre,22,Arma de fuego,San Miguel,#0803,8,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-29,13:10:00,6.255438,-75.577701,Hombre,43,Arma cortopunzante,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-29,21:45:00,6.236569,-75.590991,Hombre,33,Arma de fuego,Rosales,#1602,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-29,13:10:00,6.255438,-75.577701,Hombre,43,Arma cortopunzante,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-29,21:45:00,6.236569,-75.590991,Hombre,33,Arma de fuego,Rosales,#1602,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-31,06:20:00,6.246744,-75.566278,Hombre,40,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-31,17:00:00,6.21361,-75.559864,Hombre,38,Sin dato,Las Lomas No.2,#1407,14,Electrodomésticos
+2003-01-31,06:20:00,6.246744,-75.566278,Hombre,40,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-01-31,17:00:00,6.21361,-75.559864,Hombre,38,Sin dato,Las Lomas No.2,#1407,14,Electrodomésticos
+2003-02-01,17:20:00,6.248108,-75.58041,Hombre,33,Arma de fuego,Naranjal,#1103,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-01,09:00:00,6.23182,-75.582665,Hombre,57,Arma de fuego,Tenche,#1502,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-01,10:10:00,6.23182,-75.582665,Mujer,36,Arma de fuego,Tenche,#1502,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-01,11:00:00,6.283316,-75.556007,Hombre,32,Arma de fuego,Berlin,#0401,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-01,15:00:00,6.275373,-75.553576,Hombre,66,Arma de fuego,Campo Valdés No.2,#0303,3,Medicamento
+2003-02-01,17:20:00,6.248108,-75.58041,Hombre,33,Arma de fuego,Naranjal,#1103,11,Tecnología
+2003-02-01,21:45:00,6.194907,-75.580034,Mujer,40,Objeto contundente,La Aguacatala,#1422,14,Sin dato mercancías
+2003-02-01,17:20:00,6.248108,-75.58041,Hombre,33,Arma de fuego,Naranjal,#1103,11,Tecnología
+2003-02-01,17:20:00,6.248108,-75.58041,Hombre,33,Arma de fuego,Naranjal,#1103,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-01,10:10:00,6.23182,-75.582665,Mujer,36,Arma de fuego,Tenche,#1502,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-01,11:00:00,6.283316,-75.556007,Hombre,32,Arma de fuego,Berlin,#0401,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-01,15:00:00,6.275373,-75.553576,Hombre,66,Arma de fuego,Campo Valdés No.2,#0303,3,Medicamento
+2003-02-01,21:45:00,6.194907,-75.580034,Mujer,40,Objeto contundente,La Aguacatala,#1422,14,Sin dato mercancías
+2003-02-01,09:00:00,6.23182,-75.582665,Hombre,57,Arma de fuego,Tenche,#1502,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-02,04:15:00,6.255237,-75.564775,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10,Arma de fuego
+2003-02-02,04:15:00,6.255237,-75.564775,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10,Arma de fuego
+2003-02-04,22:15:00,6.255792,-75.560645,Mujer,54,Arma de fuego,San Miguel,#0803,8,Sin dato mercancías
+2003-02-04,22:15:00,6.255792,-75.560645,Mujer,54,Arma de fuego,San Miguel,#0803,8,Sin dato mercancías
+2003-02-08,20:00:00,6.250209,-75.567513,Hombre,32,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-08,20:00:00,6.250209,-75.567513,Hombre,32,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-10,07:00:00,6.260936,-75.566876,Mujer,44,Sin dato,Jesús Nazareno,#1003,10,Tecnología
+2003-02-10,07:00:00,6.260936,-75.566876,Mujer,44,Sin dato,Jesús Nazareno,#1003,10,Tecnología
+2003-02-12,10:30:00,6.281242,-75.563514,Hombre,31,Arma de fuego,Aranjuez,#0413,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-12,11:30:00,6.23217,-75.572255,Mujer,31,Arma de fuego,Perpetuo Socorro,#1012,10,Sin dato mercancías
+2003-02-12,10:30:00,6.281242,-75.563514,Hombre,31,Arma de fuego,Aranjuez,#0413,4,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-12,11:30:00,6.23217,-75.572255,Mujer,31,Arma de fuego,Perpetuo Socorro,#1012,10,Sin dato mercancías
+2003-02-13,18:45:00,6.252008,-75.572848,Hombre,49,Arma de fuego,San Benito,#1006,10,Sin dato mercancías
+2003-02-13,18:45:00,6.252008,-75.572848,Hombre,49,Arma de fuego,San Benito,#1006,10,Sin dato mercancías
+2003-02-14,03:15:00,6.249627,-75.604092,Hombre,32,Arma cortopunzante,La América,#1204,12,Sin dato mercancías
+2003-02-14,09:45:00,6.234921,-75.586112,Hombre,27,Sin dato,Fátima,#1601,16,Tecnología
+2003-02-14,13:30:00,6.212139,-75.583296,Hombre,29,Arma de fuego,Campo Amor,#1507,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-14,13:40:00,6.221038,-75.598447,Hombre,25,Arma cortopunzante,Las Playas,#1606,16,"Librería, Papelería y útiles"
+2003-02-14,15:50:00,6.238868,-75.600141,Hombre,39,Sin dato,Las Acacias,#1109,11,Maquinaria y equipo
+2003-02-14,19:00:00,6.231939,-75.577498,Hombre,24,Arma de fuego,Tenche,#1502,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-14,19:00:00,6.231939,-75.577498,Hombre,24,Arma de fuego,Tenche,#1502,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-14,15:50:00,6.238868,-75.600141,Hombre,39,Sin dato,Las Acacias,#1109,11,Maquinaria y equipo
+2003-02-14,09:45:00,6.234921,-75.586112,Hombre,27,Sin dato,Fátima,#1601,16,Tecnología
+2003-02-14,13:30:00,6.212139,-75.583296,Hombre,29,Arma de fuego,Campo Amor,#1507,15,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-14,13:40:00,6.221038,-75.598447,Hombre,25,Arma cortopunzante,Las Playas,#1606,16,"Librería, Papelería y útiles"
+2003-02-14,03:15:00,6.249627,-75.604092,Hombre,32,Arma cortopunzante,La América,#1204,12,Sin dato mercancías
+2003-02-15,20:00:00,6.251801,-75.564241,Hombre,52,Arma de fuego,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-15,20:00:00,6.251801,-75.564241,Hombre,52,Arma de fuego,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-16,20:30:00,6.249223,-75.564567,Hombre,50,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-16,20:30:00,6.249223,-75.564567,Hombre,50,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-17,01:00:00,6.256908,-75.571705,Hombre,40,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-17,10:30:00,6.249775,-75.568542,Hombre,34,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-17,13:20:00,6.250504,-75.568231,Hombre,64,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-17,01:00:00,6.256908,-75.571705,Hombre,40,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-17,13:20:00,6.250504,-75.568231,Hombre,64,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-17,10:30:00,6.249775,-75.568542,Hombre,34,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-18,05:45:00,6.232746,-75.594159,Mujer,38,Sin dato,Belén,#1603,16,Sin dato mercancías
+2003-02-18,07:40:00,6.248028,-75.570312,Mujer,50,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-18,11:30:00,6.249775,-75.568542,Hombre,15,Arma de fuego,La Candelaria,#1019,10,Otras formas de transporte
+2003-02-18,13:35:00,6.2631,-75.595765,Hombre,84,Arma cortopunzante,Los Colores,#1114,11,Prendas de vestir y accesorios
+2003-02-18,13:35:00,6.2631,-75.595765,Hombre,84,Arma cortopunzante,Los Colores,#1114,11,Prendas de vestir y accesorios
+2003-02-18,11:30:00,6.249775,-75.568542,Hombre,15,Arma de fuego,La Candelaria,#1019,10,Otras formas de transporte
+2003-02-18,05:45:00,6.232746,-75.594159,Mujer,38,Sin dato,Belén,#1603,16,Sin dato mercancías
+2003-02-18,07:40:00,6.248028,-75.570312,Mujer,50,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-19,07:10:00,6.222466,-75.583137,Hombre,45,Sin dato,Santa Fé,#1504,15,Tecnología
+2003-02-19,10:15:00,6.249644,-75.592164,Mujer,72,Arma de fuego,Florida Nueva,#1117,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-19,14:30:00,6.25696,-75.562329,Mujer,60,Arma de fuego,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-19,17:30:00,6.251495,-75.5719,Mujer,34,Arma cortopunzante,San Benito,#1006,10,Tecnología
+2003-02-19,18:00:00,6.247245,-75.569594,Hombre,45,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2003-02-19,17:30:00,6.251495,-75.5719,Mujer,34,Arma cortopunzante,San Benito,#1006,10,Tecnología
+2003-02-19,07:10:00,6.222466,-75.583137,Hombre,45,Sin dato,Santa Fé,#1504,15,Tecnología
+2003-02-19,18:00:00,6.247245,-75.569594,Hombre,45,Arma cortopunzante,La Candelaria,#1019,10,Tecnología
+2003-02-19,10:15:00,6.249644,-75.592164,Mujer,72,Arma de fuego,Florida Nueva,#1117,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-19,14:30:00,6.25696,-75.562329,Mujer,60,Arma de fuego,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-20,23:00:00,6.253009,-75.56616,Hombre,30,Arma cortopunzante,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2003-02-20,05:30:00,6.252705,-75.568396,Hombre,48,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-20,08:30:00,6.20911,-75.566537,Mujer,46,No,El Poblado,#1418,14,Tecnología
+2003-02-20,11:00:00,6.253009,-75.56616,Hombre,23,Arma de fuego,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-20,15:00:00,6.250911,-75.567194,Hombre,44,No,La Candelaria,#1019,10,Tecnología
+2003-02-20,23:00:00,6.253009,-75.56616,Hombre,30,Arma cortopunzante,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2003-02-20,05:30:00,6.252705,-75.568396,Hombre,48,Arma cortopunzante,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-20,23:00:00,6.253009,-75.56616,Hombre,30,Arma cortopunzante,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2003-02-20,23:00:00,6.253009,-75.56616,Hombre,30,Arma cortopunzante,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2003-02-20,11:00:00,6.253009,-75.56616,Hombre,23,Arma de fuego,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-20,15:00:00,6.250911,-75.567194,Hombre,44,Sin dato,La Candelaria,#1019,10,Tecnología
+2003-02-20,08:30:00,6.20911,-75.566537,Mujer,46,Sin dato,El Poblado,#1418,14,Tecnología
+2003-02-21,10:30:00,6.249241,-75.588672,Hombre,34,No,Naranjal,#1103,11,Maquinaria y equipo
+2003-02-21,15:00:00,6.228744,-75.579764,Hombre,19,Arma cortopunzante,Trinidad,#1503,15,Prendas de vestir y accesorios
+2003-02-21,15:00:00,6.228744,-75.579764,Hombre,19,Arma cortopunzante,Trinidad,#1503,15,Prendas de vestir y accesorios
+2003-02-21,10:30:00,6.249241,-75.588672,Hombre,34,Sin dato,Naranjal,#1103,11,Maquinaria y equipo
+2003-02-22,01:00:00,6.23285,-75.595343,Mujer,49,No,Belén,#1603,16,Tecnología
+2003-02-22,09:30:00,6.291588,-75.581779,Hombre,28,Arma de fuego,San Martín de Porres,#0606,6,Equipamiento servicios públicos
+2003-02-22,11:45:00,6.249484,-75.597542,Hombre,50,Arma de fuego,Lorena,#1111,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-22,12:15:00,6.213286,-75.576136,Mujer,49,Arma de fuego,Manila,#1419,14,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-22,09:30:00,6.291588,-75.581779,Hombre,28,Arma de fuego,San Martín de Porres,#0606,6,Equipamiento servicios públicos
+2003-02-22,12:15:00,6.213286,-75.576136,Mujer,49,Arma de fuego,Manila,#1419,14,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-22,01:00:00,6.23285,-75.595343,Mujer,49,Sin dato,Belén,#1603,16,Tecnología
+2003-02-22,11:45:00,6.249484,-75.597542,Hombre,50,Arma de fuego,Lorena,#1111,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-23,19:00:00,6.242654,-75.600073,Hombre,27,Arma de fuego,Las Acacias,#1109,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-23,19:00:00,6.242654,-75.600073,Hombre,27,Arma de fuego,Las Acacias,#1109,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,01:40:00,6.264739,-75.587435,Hombre,45,Sin dato,Los Colores,#1114,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,10:00:00,6.255438,-75.577701,Mujer,34,Arma de fuego,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,14:00:00,6.251301,-75.569951,Hombre,51,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,17:00:00,6.261439,-75.560086,Mujer,43,Arma de fuego,Prado,#1001,10,Sin dato mercancías
+2003-02-24,17:30:00,6.229479,-75.606843,Mujer,30,Arma de fuego,Los Alpes,#1615,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,10:00:00,6.255438,-75.577701,Mujer,34,Arma de fuego,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,01:40:00,6.264739,-75.587435,Hombre,45,Sin dato,Los Colores,#1114,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,17:30:00,6.229479,-75.606843,Mujer,30,Arma de fuego,Los Alpes,#1615,16,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-24,17:00:00,6.261439,-75.560086,Mujer,43,Arma de fuego,Prado,#1001,10,Sin dato mercancías
+2003-02-24,14:00:00,6.251301,-75.569951,Hombre,51,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-25,11:45:00,6.243572,-75.567524,Mujer,29,Arma de fuego,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-25,12:00:00,6.234143,-75.582593,Hombre,47,Sin dato,Cerro Nutibara Ins.,#Inst_18,16,Tecnología
+2003-02-25,12:00:00,6.234143,-75.582593,Hombre,47,Sin dato,Cerro Nutibara Ins.,#Inst_18,16,Tecnología
+2003-02-25,11:45:00,6.243572,-75.567524,Mujer,29,Arma de fuego,Barrio Colón,#1013,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-26,06:45:00,6.262327,-75.563825,Hombre,23,Arma de fuego,Prado,#1001,10,Arma de fuego
+2003-02-26,06:45:00,6.262327,-75.563825,Hombre,23,Arma de fuego,Prado,#1001,10,Arma de fuego
+2003-02-28,00:40:00,6.251318,-75.567949,Hombre,46,Sin dato,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-28,12:55:00,6.249073,-75.569549,Hombre,31,Sin dato,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-28,12:55:00,6.249073,-75.569549,Hombre,31,Sin dato,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-02-28,00:40:00,6.251318,-75.567949,Hombre,46,Sin dato,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-01,14:30:00,6.266226,-75.553838,Hombre,38,Arma cortopunzante,Manrique Central No.2,#0307,3,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-01,14:30:00,6.266226,-75.553838,Hombre,38,Arma cortopunzante,Manrique Central No.2,#0307,3,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-02,18:30:00,6.273472,-75.552844,Mujer,30,Arma cortopunzante,Campo Valdés No.2,#0303,3,Sin dato mercancías
+2003-03-02,18:30:00,6.273472,-75.552844,Mujer,30,Arma cortopunzante,Campo Valdés No.2,#0303,3,Sin dato mercancías
+2003-03-03,12:30:00,6.256237,-75.601017,Mujer,41,Arma cortopunzante,La Floresta,#1205,12,Tecnología
+2003-03-03,21:40:00,6.278469,-75.550851,Mujer,38,Sin dato,Las Granjas,#0302,3,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-03,21:40:00,6.278469,-75.550851,Mujer,38,Sin dato,Las Granjas,#0302,3,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-03,12:30:00,6.256237,-75.601017,Mujer,41,Arma cortopunzante,La Floresta,#1205,12,Tecnología
+2003-03-06,10:30:00,6.238658,-75.573665,Hombre,47,Arma de fuego,Calle Nueva,#1011,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-06,17:15:00,6.258887,-75.579965,Hombre,42,Arma de fuego,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-06,19:30:00,6.271236,-75.545199,Hombre,33,Arma de fuego,Santa Inés,#0304,3,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-06,19:45:00,6.249223,-75.564567,Hombre,47,No,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2003-03-06,20:45:00,6.23056,-75.593521,Hombre,48,Arma de fuego,Granada,#1604,16,Tecnología
+2003-03-06,19:45:00,6.249223,-75.564567,Hombre,47,Sin dato,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2003-03-06,19:30:00,6.271236,-75.545199,Hombre,33,Arma de fuego,Santa Inés,#0304,3,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-06,17:15:00,6.258887,-75.579965,Hombre,42,Arma de fuego,Carlos E. Restrepo,#1101,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-06,20:45:00,6.23056,-75.593521,Hombre,48,Arma de fuego,Granada,#1604,16,Tecnología
+2003-03-06,10:30:00,6.238658,-75.573665,Hombre,47,Arma de fuego,Calle Nueva,#1011,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-07,11:00:00,6.247245,-75.569594,Mujer,37,Arma cortopunzante,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2003-03-07,13:30:00,6.289992,-75.57685,Hombre,34,Arma de fuego,La Esperanza,#0605,6,Otros elementos
+2003-03-07,15:40:00,6.251727,-75.606267,Mujer,49,No,La América,#1204,12,Tecnología
+2003-03-07,15:40:00,6.251727,-75.606267,Mujer,49,Sin dato,La América,#1204,12,Tecnología
+2003-03-07,11:00:00,6.247245,-75.569594,Mujer,37,Arma cortopunzante,La Candelaria,#1019,10,Prendas de vestir y accesorios
+2003-03-07,13:30:00,6.289992,-75.57685,Hombre,34,Arma de fuego,La Esperanza,#0605,6,Otros elementos
+2003-03-08,02:00:00,6.249192,-75.595245,Mujer,35,Sin dato,Lorena,#1111,11,Tecnología
+2003-03-08,12:35:00,6.253089,-75.569309,Hombre,57,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-08,23:00:00,6.305495,-75.555641,Hombre,35,Arma de fuego,La Frontera,#0204,2,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-08,12:35:00,6.253089,-75.569309,Hombre,57,Arma de fuego,La Candelaria,#1019,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-08,23:00:00,6.305495,-75.555641,Hombre,35,Arma de fuego,La Frontera,#0204,2,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-08,02:00:00,6.249192,-75.595245,Mujer,35,Sin dato,Lorena,#1111,11,Tecnología
+2003-03-09,15:30:00,6.242482,-75.580909,Hombre,28,Sin dato,Los Conquistadores,#1105,11,Sin dato mercancías
+2003-03-09,18:30:00,6.258637,-75.59087,Hombre,52,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11,Prendas de vestir y accesorios
+2003-03-09,15:30:00,6.242482,-75.580909,Hombre,28,Sin dato,Los Conquistadores,#1105,11,Sin dato mercancías
+2003-03-09,18:30:00,6.258637,-75.59087,Hombre,52,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11,Prendas de vestir y accesorios
+2003-03-10,07:50:00,6.253401,-75.563806,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2003-03-10,07:50:00,6.253401,-75.563806,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-10,10:30:00,6.254313,-75.568083,Mujer,58,No,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-10,15:35:00,6.249427,-75.567846,Hombre,39,Arma cortopunzante,La Candelaria,#1019,10,Electrodomésticos
+2003-03-10,19:30:00,6.258188,-75.571695,Hombre,38,Arma cortopunzante,El Chagualo,#1004,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-10,21:00:00,6.272204,-75.564883,Hombre,22,Arma cortopunzante,Jardín Botánico,#Inst_10,4,Maquinaria y equipo
+2003-03-10,07:50:00,6.253401,-75.563806,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-10,07:50:00,6.253401,-75.563806,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10,Prendas de vestir y accesorios
+2003-03-10,19:30:00,6.258188,-75.571695,Hombre,38,Arma cortopunzante,El Chagualo,#1004,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-10,21:00:00,6.272204,-75.564883,Hombre,22,Arma cortopunzante,Jardín Botánico,#Inst_10,4,Maquinaria y equipo
+2003-03-10,10:30:00,6.254313,-75.568083,Mujer,58,Sin dato,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-10,15:35:00,6.249427,-75.567846,Hombre,39,Arma cortopunzante,La Candelaria,#1019,10,Electrodomésticos
+2003-03-11,11:15:00,6.258598,-75.565312,Mujer,38,Sin dato,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-11,12:00:00,6.253092,-75.608667,Hombre,42,Arma de fuego,El Danubio,#1207,12,Tecnología
+2003-03-11,12:00:00,6.251401,-75.575021,Hombre,41,Arma de fuego,San Benito,#1006,10,Sin dato mercancías
+2003-03-11,13:00:00,6.256836,-75.560746,Mujer,58,Arma de fuego,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-11,16:45:00,6.256142,-75.592231,Hombre,20,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-11,17:00:00,6.256908,-75.571705,Mujer,36,Arma de fuego,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-11,13:00:00,6.256836,-75.560746,Mujer,58,Arma de fuego,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-11,12:00:00,6.253092,-75.608667,Hombre,42,Arma de fuego,El Danubio,#1207,12,Tecnología
+2003-03-11,12:00:00,6.251401,-75.575021,Hombre,41,Arma de fuego,San Benito,#1006,10,Sin dato mercancías
+2003-03-11,16:45:00,6.256142,-75.592231,Hombre,20,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-11,11:15:00,6.258598,-75.565312,Mujer,38,Sin dato,Prado,#1001,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-11,17:00:00,6.256908,-75.571705,Mujer,36,Arma de fuego,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-12,01:30:00,6.254313,-75.568083,Hombre,58,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-12,03:45:00,6.250911,-75.567194,Mujer,32,No,La Candelaria,#1019,10,Otros elementos
+2003-03-12,09:45:00,6.214753,-75.581299,Hombre,31,Arma de fuego,Campo Amor,#1507,15,Arma de fuego
+2003-03-12,12:50:00,6.256237,-75.601017,Hombre,28,Sin dato,La Floresta,#1205,12,Tecnología
+2003-03-12,19:00:00,6.2674,-75.554929,Hombre,50,Sin dato,El Pomar,#0306,3,Maquinaria y equipo
+2003-03-12,03:45:00,6.250911,-75.567194,Mujer,32,Sin dato,La Candelaria,#1019,10,Otros elementos
+2003-03-12,19:00:00,6.2674,-75.554929,Hombre,50,Sin dato,El Pomar,#0306,3,Maquinaria y equipo
+2003-03-12,01:30:00,6.254313,-75.568083,Hombre,58,Arma cortopunzante,Estación Villa,#1005,10,"Dinero, joyas, piedras preciosas y título valor"
+2003-03-12,12:50:00,6.256237,-75.601017,Hombre,28,Sin dato,La Florest
